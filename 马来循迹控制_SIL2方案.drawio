@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T06:49:53.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="_wGO8bzUdL33zXdduoik" version="21.6.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-10T06:50:02.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="FiJEX5d2OIcO3Uhkfkjz" version="21.6.7" type="github" pages="4">
   <diagram name="模板参考_待删除" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1188" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -160,7 +160,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="k3wip8fT3nSkQ_HTbVzT-33" target="k3wip8fT3nSkQ_HTbVzT-61">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="350" />
+              <mxPoint x="780" y="630" />
+              <mxPoint x="319" y="630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-33" value="安全计算平台&lt;br style=&quot;font-size: 20px;&quot;&gt;Duagon机箱" style="whiteSpace=wrap;html=1;align=center;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;verticalAlign=middle;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="510" y="-50" width="300" height="400" as="geometry" />
