@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T07:08:14.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="nOfGwDDdNKZk1tS9Hvc-" version="21.6.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-10T07:17:32.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="PfxHwvIUfuoB2qH-swky" version="21.6.7" type="github" pages="4">
   <diagram name="模板参考_待删除" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1188" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -93,6 +93,11 @@
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="k3wip8fT3nSkQ_HTbVzT-1" target="k3wip8fT3nSkQ_HTbVzT-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="54.588235294117794" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3wip8fT3nSkQ_HTbVzT-68" value="ETH/CAN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k3wip8fT3nSkQ_HTbVzT-32">
+          <mxGeometry x="0.1777" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-1" value="传感器1-1&lt;br&gt;GPS-RTK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
