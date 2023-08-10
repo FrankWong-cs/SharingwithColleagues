@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T06:32:58.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="KBPenWdinlO9QkYUo2ZL" version="21.6.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-10T06:37:10.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="dChnaZMgqGMNPWS4carO" version="21.6.7" type="github" pages="4">
   <diagram name="模板参考_待删除" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1188" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -203,7 +203,7 @@
         </mxCell>
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-54" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="540" as="sourcePoint" />
+            <mxPoint x="900" y="520" as="sourcePoint" />
             <mxPoint x="890" y="-190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -215,6 +215,9 @@
         </mxCell>
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-56" value="循迹跟随" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="660" y="-180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k3wip8fT3nSkQ_HTbVzT-61" value="执行器2&lt;br style=&quot;font-size: 15px;&quot;&gt;无轨导向-第一轴" style="whiteSpace=wrap;html=1;align=center;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="515" width="270" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
