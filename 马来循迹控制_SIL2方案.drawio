@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-13T07:31:27.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="cJVyalrFJ1eMV3aMr-00" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-13T07:35:44.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="vdPHiDls9TbJuekjFHE5" version="21.6.8" type="github" pages="3">
   <diagram id="PSbGLTb-JGzMYXCRVldx" name="Entity">
     <mxGraphModel dx="2216" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -199,7 +199,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="H9GjOlIk_Rh9UV2NHRs_" name="数据流">
-    <mxGraphModel dx="1471" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -291,11 +291,11 @@
         <mxCell id="CKitpAn34eTJPyH5BuWE-9" value="点云数据匹配" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="CKitpAn34eTJPyH5BuWE-8">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CKitpAn34eTJPyH5BuWE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKitpAn34eTJPyH5BuWE-13" target="CKitpAn34eTJPyH5BuWE-16">
+        <mxCell id="CKitpAn34eTJPyH5BuWE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKitpAn34eTJPyH5BuWE-13" target="CKitpAn34eTJPyH5BuWE-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="650" y="230" />
-              <mxPoint x="650" y="161" />
+              <mxPoint x="523" y="160" />
+              <mxPoint x="650" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -326,8 +326,8 @@
         <mxCell id="CKitpAn34eTJPyH5BuWE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKitpAn34eTJPyH5BuWE-23" target="CKitpAn34eTJPyH5BuWE-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="650" y="337" />
-              <mxPoint x="650" y="303" />
+              <mxPoint x="700" y="337" />
+              <mxPoint x="700" y="303" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -436,8 +436,11 @@
         <mxCell id="SrfplcpbmUxofHk9KIb3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.643;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SrfplcpbmUxofHk9KIb3-12" target="1_bBR38_FuNowLDQo-79-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SrfplcpbmUxofHk9KIb3-12" value="定位数据通路心跳" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SrfplcpbmUxofHk9KIb3-12" value="定位数据通路心跳&lt;br&gt;&lt;br&gt;3路-是否还需要CPUCRC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SrfplcpbmUxofHk9KIb3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKitpAn34eTJPyH5BuWE-31" target="1_bBR38_FuNowLDQo-79-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
