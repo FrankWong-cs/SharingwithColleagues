@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-13T03:47:00.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="jwQP6mbtQuhwAMwr0lsU" version="21.6.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-13T03:48:42.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="5Kj3FquYO5D9ycHiDgoX" version="21.6.8" type="github" pages="2">
   <diagram id="PSbGLTb-JGzMYXCRVldx" name="Entity">
     <mxGraphModel dx="1781" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -214,6 +214,12 @@
         </mxCell>
         <mxCell id="uz_q0G_aVqhpZY-xAXSW-3" value="视觉数据" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8_byREZAqRba5Iupg0P-1" value="无轨导向-第一轴&lt;br&gt;转角执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8_byREZAqRba5Iupg0P-2" value="制动系统&lt;br&gt;安全制动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
