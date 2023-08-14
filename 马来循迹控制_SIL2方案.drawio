@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T07:02:53.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="i9l56N85pze7NU4_t2bb" version="21.6.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-14T07:03:50.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="QygXXXFEzHy2xSOytVEO" version="21.6.8" type="github" pages="2">
   <diagram id="PSbGLTb-JGzMYXCRVldx" name="实体关系">
-    <mxGraphModel dx="2031" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2239" dy="1841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,6 +95,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="D5JBo_ZwWprGUE0tr2o2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="k3wip8fT3nSkQ_HTbVzT-25" target="k3wip8fT3nSkQ_HTbVzT-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="303" />
+              <mxPoint x="210" y="390" />
+              <mxPoint x="85" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-25" value="处理器&lt;br&gt;智能驾驶机箱" style="whiteSpace=wrap;html=1;align=center;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="229" y="190" width="100" height="150" as="geometry" />
         </mxCell>
@@ -119,9 +128,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k3wip8fT3nSkQ_HTbVzT-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;" parent="1" source="k3wip8fT3nSkQ_HTbVzT-33" target="k3wip8fT3nSkQ_HTbVzT-61" edge="1">
+        <mxCell id="k3wip8fT3nSkQ_HTbVzT-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.901;exitY=1.003;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;exitPerimeter=0;" parent="1" source="k3wip8fT3nSkQ_HTbVzT-33" target="k3wip8fT3nSkQ_HTbVzT-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="782" y="351" />
+              <mxPoint x="782" y="350" />
               <mxPoint x="780" y="350" />
               <mxPoint x="780" y="650" />
               <mxPoint x="319" y="650" />
@@ -208,9 +219,6 @@
           <mxGeometry x="229" y="540" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k3wip8fT3nSkQ_HTbVzT-62" target="k3wip8fT3nSkQ_HTbVzT-61" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k3wip8fT3nSkQ_HTbVzT-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.412;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#A50040;fillColor=#d80073;strokeWidth=2;dashed=1;" parent="1" source="k3wip8fT3nSkQ_HTbVzT-62" target="k3wip8fT3nSkQ_HTbVzT-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-62" value="信号系统" style="whiteSpace=wrap;html=1;align=center;fontSize=15;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
