@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T13:54:10.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="LhdXDQdaly2SlHFePqug" version="21.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-14T13:55:04.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="VrZcT4neN5a2U5TV_hvg" version="21.7.4" type="github" pages="3">
   <diagram id="PSbGLTb-JGzMYXCRVldx" name="实体关系-SIL4">
     <mxGraphModel dx="2419" dy="1821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -341,7 +341,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3FRlpT5fI4wf7kMN5uNB-32" value="G600机箱" style="whiteSpace=wrap;html=1;align=center;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;verticalAlign=middle;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="3FRlpT5fI4wf7kMN5uNB-32" value="G600&lt;br&gt;机箱" style="whiteSpace=wrap;html=1;align=center;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;verticalAlign=middle;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="510" y="-50" width="300" height="400" as="geometry" />
         </mxCell>
         <mxCell id="3FRlpT5fI4wf7kMN5uNB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="3FRlpT5fI4wf7kMN5uNB-35" target="3FRlpT5fI4wf7kMN5uNB-32">
