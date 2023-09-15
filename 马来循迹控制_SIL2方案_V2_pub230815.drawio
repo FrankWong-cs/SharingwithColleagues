@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T16:09:57.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="0IlL_XuYiBlmj3xfRw0W" version="21.7.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-15T16:14:55.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="j2Xa0RrI0yj_UEpM-Rd6" version="21.7.5" type="github" pages="3">
   <diagram id="PSbGLTb-JGzMYXCRVldx" name="实体关系-SIL4">
-    <mxGraphModel dx="2184" dy="1713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1962" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,7 +30,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k3wip8fT3nSkQ_HTbVzT-1" value="传感器1-1&lt;br&gt;GPS-RTK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="k3wip8fT3nSkQ_HTbVzT-1" value="传感器1-1&lt;br&gt;GPS-RTK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-39" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" parent="1" source="k3wip8fT3nSkQ_HTbVzT-2" target="k3wip8fT3nSkQ_HTbVzT-33" edge="1">
@@ -46,19 +46,19 @@
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="k3wip8fT3nSkQ_HTbVzT-2" target="k3wip8fT3nSkQ_HTbVzT-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k3wip8fT3nSkQ_HTbVzT-2" value="传感器1-2&lt;br&gt;BD-RTK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="k3wip8fT3nSkQ_HTbVzT-2" value="传感器1-2&lt;br&gt;BD-RTK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-39" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="k3wip8fT3nSkQ_HTbVzT-3" target="k3wip8fT3nSkQ_HTbVzT-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k3wip8fT3nSkQ_HTbVzT-3" value="传感器2-1&lt;br&gt;机械式Lidar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="k3wip8fT3nSkQ_HTbVzT-3" value="传感器2-1&lt;br&gt;机械式Lidar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-39" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="k3wip8fT3nSkQ_HTbVzT-4" target="k3wip8fT3nSkQ_HTbVzT-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k3wip8fT3nSkQ_HTbVzT-4" value="传感器0-1&lt;br&gt;Camera 模组" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="k3wip8fT3nSkQ_HTbVzT-4" value="传感器0-1&lt;br&gt;Camera 模组" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-39" y="-53" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k3wip8fT3nSkQ_HTbVzT-7" target="k3wip8fT3nSkQ_HTbVzT-1" edge="1">
@@ -82,7 +82,7 @@
         <mxCell id="D5JBo_ZwWprGUE0tr2o2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="k3wip8fT3nSkQ_HTbVzT-24" target="k3wip8fT3nSkQ_HTbVzT-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k3wip8fT3nSkQ_HTbVzT-24" value="处理器&lt;br&gt;Orin" style="whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="k3wip8fT3nSkQ_HTbVzT-24" value="处理器&lt;br&gt;Orin" style="whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="150" y="-53" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.661;entryDx=0;entryDy=0;strokeWidth=4;entryPerimeter=0;" parent="1" source="k3wip8fT3nSkQ_HTbVzT-25" target="k3wip8fT3nSkQ_HTbVzT-33" edge="1">
@@ -93,7 +93,7 @@
             <mxPoint x="-44" y="24" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k3wip8fT3nSkQ_HTbVzT-25" value="处理器&lt;br&gt;智能驾驶机箱" style="whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="k3wip8fT3nSkQ_HTbVzT-25" value="处理器&lt;br&gt;智能驾驶机箱" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="150" y="190" width="100" height="150" as="geometry" />
         </mxCell>
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;" parent="1" source="k3wip8fT3nSkQ_HTbVzT-33" target="k3wip8fT3nSkQ_HTbVzT-52" edge="1">
@@ -151,8 +151,8 @@
             <mxPoint y="27" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k3wip8fT3nSkQ_HTbVzT-52" value="线控转向机，要求SIL1+人工" style="whiteSpace=wrap;html=1;align=center;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="230" width="270" height="130" as="geometry" />
+        <mxCell id="k3wip8fT3nSkQ_HTbVzT-52" value="线控转向机，要求SIL1+人工" style="whiteSpace=wrap;html=1;align=center;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="230" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
