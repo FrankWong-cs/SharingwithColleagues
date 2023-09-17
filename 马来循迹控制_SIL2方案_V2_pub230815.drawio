@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-17T04:15:57.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="GYuMhavA98B6WWeAoRHg" version="21.7.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-17T04:16:31.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="ITtTnAixD-PiniW9YXBo" version="21.7.5" type="github" pages="3">
   <diagram id="PSbGLTb-JGzMYXCRVldx" name="实体关系-SIL4">
-    <mxGraphModel dx="2002" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1801" dy="1633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,11 +160,11 @@
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-61" value="整车网络-VCMS" style="whiteSpace=wrap;html=1;align=center;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="193" y="540" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="k3wip8fT3nSkQ_HTbVzT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k3wip8fT3nSkQ_HTbVzT-62" target="k3wip8fT3nSkQ_HTbVzT-61" edge="1">
+        <mxCell id="k3wip8fT3nSkQ_HTbVzT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" parent="1" source="k3wip8fT3nSkQ_HTbVzT-62" target="k3wip8fT3nSkQ_HTbVzT-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-62" value="信号系统" style="whiteSpace=wrap;html=1;align=center;fontSize=15;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="-36" y="540" width="170" height="70" as="geometry" />
+          <mxGeometry x="-52" y="540" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="D5JBo_ZwWprGUE0tr2o2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;" parent="1" source="D5JBo_ZwWprGUE0tr2o2-5" target="k3wip8fT3nSkQ_HTbVzT-33" edge="1">
           <mxGeometry relative="1" as="geometry">
