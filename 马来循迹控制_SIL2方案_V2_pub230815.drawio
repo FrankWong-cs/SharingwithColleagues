@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-17T04:17:04.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="sap8QtG_0orChH78D2Tb" version="21.7.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-17T04:18:17.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="21ZY_GB0zaXL_9BNBOcq" version="21.7.5" type="github" pages="3">
   <diagram id="PSbGLTb-JGzMYXCRVldx" name="实体关系-SIL4">
-    <mxGraphModel dx="3281" dy="2462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3275" dy="2215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,7 +195,7 @@
         <mxCell id="oWysnuYIhE1WeySD9ms7-1" value="HMI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="193" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oWysnuYIhE1WeySD9ms7-3" value="循迹跟随控制-SIL2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#b37965;" vertex="1" parent="1">
+        <mxCell id="oWysnuYIhE1WeySD9ms7-3" value="循迹控制-安全-SIL2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#b37965;" vertex="1" parent="1">
           <mxGeometry x="585" y="50" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oWysnuYIhE1WeySD9ms7-5" value="道岔选择-SIL2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#b37965;" vertex="1" parent="1">
@@ -203,6 +203,9 @@
         </mxCell>
         <mxCell id="oWysnuYIhE1WeySD9ms7-6" value="失效安全保护-SIL4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="585" y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oWysnuYIhE1WeySD9ms7-7" value="循迹控制-性能-SIL0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#b37965;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
