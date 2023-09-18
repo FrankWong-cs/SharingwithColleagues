@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-17T05:31:01.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="p25NBx-hB-7uZfZNILik" version="21.7.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-18T07:01:05.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="09lyGXItYDdo16Zm5R_n" version="21.7.5" type="github" pages="3">
   <diagram id="PSbGLTb-JGzMYXCRVldx" name="实体关系-SIL4">
-    <mxGraphModel dx="3281" dy="2462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2156" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,15 +149,15 @@
         <mxCell id="D5JBo_ZwWprGUE0tr2o2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="k3wip8fT3nSkQ_HTbVzT-61" target="k3wip8fT3nSkQ_HTbVzT-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tuFz9fcPf5YimxcDWDDr-2" value="1000MB&lt;br style=&quot;font-size: 21px;&quot;&gt;ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;" vertex="1" connectable="0" parent="D5JBo_ZwWprGUE0tr2o2-2">
+        <mxCell id="tuFz9fcPf5YimxcDWDDr-2" value="1000MB&lt;br style=&quot;font-size: 21px;&quot;&gt;ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;" parent="D5JBo_ZwWprGUE0tr2o2-2" vertex="1" connectable="0">
           <mxGeometry x="-0.1933" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oWysnuYIhE1WeySD9ms7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="k3wip8fT3nSkQ_HTbVzT-61" target="oWysnuYIhE1WeySD9ms7-1">
+        <mxCell id="oWysnuYIhE1WeySD9ms7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="k3wip8fT3nSkQ_HTbVzT-61" target="oWysnuYIhE1WeySD9ms7-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k3wip8fT3nSkQ_HTbVzT-61" value="整车网络-VCMS" style="whiteSpace=wrap;html=1;align=center;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="k3wip8fT3nSkQ_HTbVzT-61" value="整车网络-总线交换-VCMS" style="whiteSpace=wrap;html=1;align=center;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="193" y="540" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k3wip8fT3nSkQ_HTbVzT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" parent="1" source="k3wip8fT3nSkQ_HTbVzT-62" target="k3wip8fT3nSkQ_HTbVzT-61" edge="1">
@@ -192,19 +192,19 @@
         <mxCell id="YiXw8Y56aFc3_bIy6W4r-3" value="输出" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="970" y="-220" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oWysnuYIhE1WeySD9ms7-1" value="HMI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="oWysnuYIhE1WeySD9ms7-1" value="HMI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="193" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oWysnuYIhE1WeySD9ms7-3" value="循迹控制-安全-SIL2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#b37965;" vertex="1" parent="1">
+        <mxCell id="oWysnuYIhE1WeySD9ms7-3" value="循迹控制-安全-SIL2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#b37965;" parent="1" vertex="1">
           <mxGeometry x="585" y="50" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oWysnuYIhE1WeySD9ms7-5" value="道岔选择-SIL2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#b37965;" vertex="1" parent="1">
+        <mxCell id="oWysnuYIhE1WeySD9ms7-5" value="道岔选择-SIL2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#b37965;" parent="1" vertex="1">
           <mxGeometry x="585" y="130" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oWysnuYIhE1WeySD9ms7-6" value="失效安全保护-SIL4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="oWysnuYIhE1WeySD9ms7-6" value="失效安全保护-SIL4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="585" y="210" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oWysnuYIhE1WeySD9ms7-7" value="循迹控制-性能-SIL0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#b37965;" vertex="1" parent="1">
+        <mxCell id="oWysnuYIhE1WeySD9ms7-7" value="循迹控制-性能-SIL0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#b37965;" parent="1" vertex="1">
           <mxGeometry x="160" y="260" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
