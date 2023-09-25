@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T07:00:57.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36" etag="CGcWSDihwyDg5mUHg7cG" version="21.8.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-25T07:53:25.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36" etag="XBc6CW49ZrG4ZIV3fUzd" version="21.8.2" type="github" pages="3">
   <diagram id="PSbGLTb-JGzMYXCRVldx" name="实体关系-SIL4">
     <mxGraphModel dx="2797" dy="2159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -418,7 +418,7 @@
         <mxCell id="kVrlWOHZR3oxUwdPvH9f-8" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Integrated Inertial Navigation-1&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="375" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IMAU2WSUBlP5jchnnl9h-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="kVrlWOHZR3oxUwdPvH9f-9" target="MrvgDxOE0faTWLePAywn-2" edge="1">
+        <mxCell id="IMAU2WSUBlP5jchnnl9h-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kVrlWOHZR3oxUwdPvH9f-9" target="MrvgDxOE0faTWLePAywn-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U4NYix8kap-v5bRj9md1-4" value="CAN bus" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IMAU2WSUBlP5jchnnl9h-2" vertex="1" connectable="0">
@@ -467,9 +467,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U4NYix8kap-v5bRj9md1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="MrvgDxOE0faTWLePAywn-2" edge="1">
+        <mxCell id="U4NYix8kap-v5bRj9md1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="MrvgDxOE0faTWLePAywn-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="40" y="225.20000000000005" as="targetPoint" />
+            <mxPoint x="40" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U4NYix8kap-v5bRj9md1-14" value="CAN bus&lt;br&gt;/ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="U4NYix8kap-v5bRj9md1-3" vertex="1" connectable="0">
