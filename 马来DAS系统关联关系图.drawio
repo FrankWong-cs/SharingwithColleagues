@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T08:20:26.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="288OC6oKuaIAjjv8hMfJ" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-03T09:16:37.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="xl_nxLx-Xah6wq__BR4F" version="22.0.8" type="github" pages="2">
   <diagram name="实体关系图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="1829" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -403,7 +403,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lsjFzdNTHn-OdfoM8NlI" name="循迹系统全连接图 高鑫鹏">
-    <mxGraphModel dx="1829" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2006" dy="1848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -540,8 +540,14 @@
         <mxCell id="QA0R_lEdsybjFQ6YRMCE-33" value="执行器1&lt;br style=&quot;font-size: 20px;&quot;&gt;安全制动系统" style="whiteSpace=wrap;html=1;align=center;fontSize=20;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1143" y="-90" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QA0R_lEdsybjFQ6YRMCE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeWidth=4;startArrow=classic;startFill=1;fillColor=#d5e8d4;strokeColor=#bfe4aa;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QA0R_lEdsybjFQ6YRMCE-39" target="QA0R_lEdsybjFQ6YRMCE-74">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QA0R_lEdsybjFQ6YRMCE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;startArrow=classic;startFill=1;fillColor=#d5e8d4;strokeColor=#bfe4aa;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QA0R_lEdsybjFQ6YRMCE-39" target="QA0R_lEdsybjFQ6YRMCE-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="324" y="530" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="286" y="530" />
+              <mxPoint x="324" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="QA0R_lEdsybjFQ6YRMCE-35" value="SIL2-100Mb&lt;br style=&quot;font-size: 16px;&quot;&gt;ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="QA0R_lEdsybjFQ6YRMCE-34">
           <mxGeometry x="0.1152" relative="1" as="geometry">
