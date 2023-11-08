@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T01:48:59.112Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6Cv8GxUglZUJSmiXqJVI" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-08T03:00:15.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_dgRE-LXf301YiSw74O7" version="22.0.8" type="github" pages="2">
   <diagram name="实体关系图" id="CBUP-HR3QqebyW29lq4L">
-    <mxGraphModel dx="2309" dy="1958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1812" dy="1579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,7 +113,7 @@
             <mxPoint x="960" y="-290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kV2-ElPKzwBOEJ-UU_A2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#d11f1f;strokeWidth=2;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-33" target="kV2-ElPKzwBOEJ-UU_A2-56" edge="1">
+        <mxCell id="kV2-ElPKzwBOEJ-UU_A2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#d11f1f;strokeWidth=2;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-75" target="kV2-ElPKzwBOEJ-UU_A2-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-30" value="DI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="kV2-ElPKzwBOEJ-UU_A2-29" vertex="1" connectable="0">
@@ -121,10 +121,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kV2-ElPKzwBOEJ-UU_A2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#d11f1f;strokeWidth=2;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-33" target="kV2-ElPKzwBOEJ-UU_A2-65" edge="1">
+        <mxCell id="kV2-ElPKzwBOEJ-UU_A2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#d11f1f;strokeWidth=2;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-75" target="kV2-ElPKzwBOEJ-UU_A2-65" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1346" y="80" />
+              <mxPoint x="730" y="100" />
+              <mxPoint x="730" y="80" />
               <mxPoint x="702" y="80" />
             </Array>
           </mxGeometry>
@@ -134,7 +135,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kV2-ElPKzwBOEJ-UU_A2-33" value="执行器1&lt;br style=&quot;font-size: 20px;&quot;&gt;安全制动系统" style="whiteSpace=wrap;html=1;align=center;fontSize=20;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="kV2-ElPKzwBOEJ-UU_A2-33" value="执行器1&lt;br style=&quot;font-size: 20px;&quot;&gt;应急制动系统" style="whiteSpace=wrap;html=1;align=center;fontSize=20;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1143" y="-90" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeWidth=4;startArrow=classic;startFill=1;fillColor=#d5e8d4;strokeColor=#bfe4aa;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-39" target="kV2-ElPKzwBOEJ-UU_A2-74" edge="1">
