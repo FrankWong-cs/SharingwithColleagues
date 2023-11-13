@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T03:10:27.963Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="aaNWUYRSdKjx-m2_Oj71" version="22.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-13T03:25:09.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="J3iXcl7W04-IoJz3Sfmz" version="22.1.0" type="github" pages="4">
   <diagram name="实体关系图" id="CBUP-HR3QqebyW29lq4L">
-    <mxGraphModel dx="2309" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1829" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -417,7 +417,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lsjFzdNTHn-OdfoM8NlI" name="循迹系统全连接图 高鑫鹏">
-    <mxGraphModel dx="2309" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1829" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -857,11 +857,23 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9U1DxD7QZlR0YzYpBEyV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.142;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#b85450;strokeWidth=4;fillColor=#f8cecc;startArrow=classic;startFill=1;" edge="1" parent="1" source="QA0R_lEdsybjFQ6YRMCE-4" target="QA0R_lEdsybjFQ6YRMCE-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9U1DxD7QZlR0YzYpBEyV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#b85450;strokeWidth=4;fillColor=#f8cecc;startArrow=classic;startFill=1;" edge="1" parent="1" source="QA0R_lEdsybjFQ6YRMCE-7" target="QA0R_lEdsybjFQ6YRMCE-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="120" />
+              <mxPoint x="170" y="30" />
+              <mxPoint x="612" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="GJm1DADgoG_9GpByzgdt" name="安全继电器逻辑硬线回路">
-    <mxGraphModel dx="1482" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1002" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
