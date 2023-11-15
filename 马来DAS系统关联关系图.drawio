@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T07:39:41.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="HdOLRr0UYouf6JrKOSi7" version="22.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-15T05:44:54.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="c36UFgzYLA4wKyFfAgLG" version="22.1.0" type="github" pages="4">
   <diagram name="实体关系图" id="CBUP-HR3QqebyW29lq4L">
-    <mxGraphModel dx="1829" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2069" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -417,7 +417,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lsjFzdNTHn-OdfoM8NlI" name="循迹系统全连接图 高鑫鹏">
-    <mxGraphModel dx="2497" dy="2131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2010" dy="1719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -545,26 +545,6 @@
             <mxPoint x="960" y="-290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QA0R_lEdsybjFQ6YRMCE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#d11f1f;strokeWidth=2;" parent="1" source="QA0R_lEdsybjFQ6YRMCE-75" target="QA0R_lEdsybjFQ6YRMCE-56" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QA0R_lEdsybjFQ6YRMCE-30" value="DI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="QA0R_lEdsybjFQ6YRMCE-29" vertex="1" connectable="0">
-          <mxGeometry x="-0.2176" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QA0R_lEdsybjFQ6YRMCE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#d11f1f;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QA0R_lEdsybjFQ6YRMCE-75" target="QA0R_lEdsybjFQ6YRMCE-65" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="702" y="100" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QA0R_lEdsybjFQ6YRMCE-32" value="DI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="QA0R_lEdsybjFQ6YRMCE-31" vertex="1" connectable="0">
-          <mxGeometry x="0.0003" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QA0R_lEdsybjFQ6YRMCE-33" value="执行器1&lt;br style=&quot;font-size: 20px;&quot;&gt;应急制动系统" style="whiteSpace=wrap;html=1;align=center;fontSize=20;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1143" y="-90" width="270" height="80" as="geometry" />
         </mxCell>
@@ -674,6 +654,23 @@
             <mxPoint x="13" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MpqgN0TtOaUQc_sgGzAA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="QA0R_lEdsybjFQ6YRMCE-56" target="QA0R_lEdsybjFQ6YRMCE-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="938" y="22" />
+              <mxPoint x="938" y="150" />
+              <mxPoint x="1143" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MpqgN0TtOaUQc_sgGzAA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QA0R_lEdsybjFQ6YRMCE-56" target="QA0R_lEdsybjFQ6YRMCE-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="52" />
+              <mxPoint x="900" y="354" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QA0R_lEdsybjFQ6YRMCE-56" value="STW-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontColor=default;strokeColor=#82b366;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="612" y="7" width="120" height="60" as="geometry" />
         </mxCell>
@@ -725,6 +722,11 @@
         <mxCell id="QA0R_lEdsybjFQ6YRMCE-64" value="SIL2-DO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QA0R_lEdsybjFQ6YRMCE-63" vertex="1" connectable="0">
           <mxGeometry x="-0.415" relative="1" as="geometry">
             <mxPoint x="10" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MpqgN0TtOaUQc_sgGzAA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="QA0R_lEdsybjFQ6YRMCE-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="731.9047619047619" y="149.57142857142844" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QA0R_lEdsybjFQ6YRMCE-65" value="STW-2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontColor=default;strokeColor=#82b366;fontSize=15;" parent="1" vertex="1">
@@ -887,7 +889,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GJm1DADgoG_9GpByzgdt" name="安全继电器逻辑硬线回路">
-    <mxGraphModel dx="1113" dy="1810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
