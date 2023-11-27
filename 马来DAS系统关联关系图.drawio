@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T03:11:16.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_3xtGw0mXF1rlIKjO4C_" version="22.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-27T03:11:58.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RqYUyKkgICrCuEzOS7ra" version="22.1.4" type="github" pages="6">
   <diagram name="实体关系图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="1861" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1369,7 +1369,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5u_sHzqKNdBTE_GQBvPW" name="DAS系统与外部系统关联关系图">
-    <mxGraphModel dx="2288" dy="1848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2073" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1561,6 +1561,14 @@
         </mxCell>
         <mxCell id="MlJxGsaLasZlbV2H4Bvv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="MlJxGsaLasZlbV2H4Bvv-1" source="MlJxGsaLasZlbV2H4Bvv-6" target="MlJxGsaLasZlbV2H4Bvv-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rlPZ7zRzE9RTY3Ps-6JD-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="MlJxGsaLasZlbV2H4Bvv-1" source="MlJxGsaLasZlbV2H4Bvv-6" target="MlJxGsaLasZlbV2H4Bvv-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rlPZ7zRzE9RTY3Ps-6JD-1" value="传统&lt;br&gt;TRDP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rlPZ7zRzE9RTY3Ps-6JD-0" vertex="1" connectable="0">
+          <mxGeometry x="0.0742" y="2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MlJxGsaLasZlbV2H4Bvv-6" value="智能驾驶机箱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" parent="MlJxGsaLasZlbV2H4Bvv-1" vertex="1">
           <mxGeometry x="-533.5" y="-940" width="120" height="60" as="geometry" />
