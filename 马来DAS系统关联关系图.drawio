@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T03:13:16.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="WAraKjteFOd04UYyC6Z3" version="22.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-27T03:14:22.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Q1Fh5Q24ie9oMnGZMtqc" version="22.1.4" type="github" pages="6">
   <diagram name="实体关系图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="1861" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1385,7 +1385,7 @@
         <mxCell id="4IF-wAqoHZgAtcuKYzu8-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="4IF-wAqoHZgAtcuKYzu8-101" target="4IF-wAqoHZgAtcuKYzu8-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4IF-wAqoHZgAtcuKYzu8-101" value="智能驾驶机箱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="4IF-wAqoHZgAtcuKYzu8-101" value="智能驾驶子系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-533.5" y="-940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4IF-wAqoHZgAtcuKYzu8-118" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#006666;strokeWidth=3;" parent="1" source="4IF-wAqoHZgAtcuKYzu8-102" target="4IF-wAqoHZgAtcuKYzu8-107" edge="1">
