@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T06:37:32.959Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SjkLiFNYjjLNUIhq-0_v" version="22.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-29T03:53:04.046Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="83f-aSrcgizidHZudn99" version="22.1.4" type="github" pages="6">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="2501" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1396,7 +1396,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5u_sHzqKNdBTE_GQBvPW" name="DAS系统与外部系统关联关系图">
-    <mxGraphModel dx="2073" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1456,6 +1456,15 @@
         </mxCell>
         <mxCell id="4IF-wAqoHZgAtcuKYzu8-123" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#A680B8;strokeWidth=2;startArrow=classic;startFill=1;" parent="1" source="4IF-wAqoHZgAtcuKYzu8-103" target="4IF-wAqoHZgAtcuKYzu8-108" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b_0riTmSo1t4BOxF93DO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4IF-wAqoHZgAtcuKYzu8-103" target="b_0riTmSo1t4BOxF93DO-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="-940" />
+              <mxPoint x="160" y="-980" />
+              <mxPoint x="210" y="-980" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4IF-wAqoHZgAtcuKYzu8-103" value="安全计算模组" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="50" y="-940" width="120" height="60" as="geometry" />
@@ -1568,6 +1577,15 @@
         </mxCell>
         <mxCell id="ivg4AKRCxPDNt3aYdW22-1" value="循迹&lt;br&gt;按钮" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="60" y="-1060" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b_0riTmSo1t4BOxF93DO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="b_0riTmSo1t4BOxF93DO-1" target="4IF-wAqoHZgAtcuKYzu8-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b_0riTmSo1t4BOxF93DO-1" value="蜂鸣器" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-1060" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b_0riTmSo1t4BOxF93DO-3" value="蜂鸣器" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-1060" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
