@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T06:00:58.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Npy1VXoxJj_KTAYw6wXv" version="22.1.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-12-05T06:02:26.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="B6n2EQ-lc3nl8mFFTcBa" version="22.1.5" type="github" pages="6">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="2073" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1487,7 +1487,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4IF-wAqoHZgAtcuKYzu8-106" value="无轨导向" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+        <mxCell id="4IF-wAqoHZgAtcuKYzu8-106" value="无轨导向&lt;br&gt;头轴转向控制器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="80" y="-646" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5FCwzxrzBt2mw7ofKvr7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#006666;strokeWidth=3;" parent="1" source="4IF-wAqoHZgAtcuKYzu8-107" target="4IF-wAqoHZgAtcuKYzu8-126" edge="1">
@@ -1504,10 +1504,10 @@
         <mxCell id="4IF-wAqoHZgAtcuKYzu8-107" value="整车网络-控制环网" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-400" y="-766" width="440" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="4IF-wAqoHZgAtcuKYzu8-108" value="方向盘线控执行器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="4IF-wAqoHZgAtcuKYzu8-108" value="方向盘&lt;br&gt;转向控制器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="290" y="-887.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4IF-wAqoHZgAtcuKYzu8-109" value="应急制动" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+        <mxCell id="4IF-wAqoHZgAtcuKYzu8-109" value="应急制动环网" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="290" y="-992.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5FCwzxrzBt2mw7ofKvr7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;dashed=1;" parent="1" target="4IF-wAqoHZgAtcuKYzu8-112" edge="1">
