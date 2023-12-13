@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T06:28:41.667Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pyaW4XQNK6W0P7K__Wwg" version="22.1.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-13T06:52:57.009Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="t_rNB2F7d_dD3qN-pFLF" version="22.1.8" type="github" pages="8">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="2501" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1751,7 +1751,7 @@
         <mxCell id="boizk3Cv1wrMdAZA4N6E-19" value="差分服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="502" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fI0Vj5BSCrW7VSIR1old-1" value="OCC&lt;br&gt;旁路开关" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="fI0Vj5BSCrW7VSIR1old-1" value="安全制动&lt;br&gt;旁路开关" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1590" y="-1040" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
