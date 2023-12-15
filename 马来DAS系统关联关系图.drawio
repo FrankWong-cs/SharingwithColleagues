@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T08:39:57.798Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GZfsjrcGnyBy-EZyyZUR" version="22.1.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-15T08:40:55.367Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ho1QXq9L8hSOb44DQ1yy" version="22.1.9" type="github" pages="8">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="2261" dy="2075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1565,7 +1565,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4IF-wAqoHZgAtcuKYzu8-115" value="车载信号-辅助网&lt;br&gt;媒体网" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontColor=default;strokeColor=#d6b656;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="4IF-wAqoHZgAtcuKYzu8-115" value="车载信号交换机/&lt;br&gt;媒体网" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontColor=default;strokeColor=#d6b656;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="-85" y="-646" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5FCwzxrzBt2mw7ofKvr7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="4IF-wAqoHZgAtcuKYzu8-126" target="4IF-wAqoHZgAtcuKYzu8-111" edge="1">
