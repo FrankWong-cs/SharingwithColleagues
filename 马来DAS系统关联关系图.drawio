@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T06:52:57.009Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="t_rNB2F7d_dD3qN-pFLF" version="22.1.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-15T08:30:28.726Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="275Hv8ONd0VzIBQXt9b7" version="22.1.9" type="github" pages="8">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
-    <mxGraphModel dx="2501" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="2075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -417,7 +417,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lsjFzdNTHn-OdfoM8NlI" name="循迹系统全连接图 高鑫鹏">
-    <mxGraphModel dx="3096" dy="2600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="2075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -428,9 +428,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="305" y="170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="24" y="80" />
-              <mxPoint x="24" y="170" />
-              <mxPoint x="246" y="170" />
+              <mxPoint x="130" y="80" />
+              <mxPoint x="130" y="190" />
             </Array>
             <mxPoint x="-70" y="80" as="sourcePoint" />
           </mxGeometry>
@@ -932,7 +931,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GJm1DADgoG_9GpByzgdt" name="安全继电器逻辑硬线回路">
-    <mxGraphModel dx="794" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1482" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1260,7 +1259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4ldP5AvspZTD4nOcewYG" name="FDR-简化版本-发业主用">
-    <mxGraphModel dx="794" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1482" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1412,7 +1411,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5u_sHzqKNdBTE_GQBvPW" name="DAS系统与外部系统关联关系图">
-    <mxGraphModel dx="2150" dy="2004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="2075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1430,6 +1429,11 @@
         </mxCell>
         <mxCell id="4IF-wAqoHZgAtcuKYzu8-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="4IF-wAqoHZgAtcuKYzu8-101" target="4IF-wAqoHZgAtcuKYzu8-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajqkv_lbGvBFG73F-SBQ-5" value="PU300" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4IF-wAqoHZgAtcuKYzu8-119">
+          <mxGeometry x="0.2968" y="-3" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4IF-wAqoHZgAtcuKYzu8-118" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#006666;strokeWidth=3;" parent="1" source="4IF-wAqoHZgAtcuKYzu8-102" target="4IF-wAqoHZgAtcuKYzu8-107" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1449,6 +1453,14 @@
               <mxPoint x="70" y="-800" />
               <mxPoint x="70" y="-616" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajqkv_lbGvBFG73F-SBQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="4IF-wAqoHZgAtcuKYzu8-102" target="4IF-wAqoHZgAtcuKYzu8-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajqkv_lbGvBFG73F-SBQ-4" value="PU370" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ajqkv_lbGvBFG73F-SBQ-3">
+          <mxGeometry x="-0.2883" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4IF-wAqoHZgAtcuKYzu8-102" value="安全以太网交换机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=3;fontColor=#ffffff;" parent="1" vertex="1">
@@ -1484,15 +1496,6 @@
         </mxCell>
         <mxCell id="4IF-wAqoHZgAtcuKYzu8-103" value="安全计算模组" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="50" y="-940" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4IF-wAqoHZgAtcuKYzu8-124" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#A680B8;strokeWidth=2;startArrow=classic;startFill=1;" parent="1" source="4IF-wAqoHZgAtcuKYzu8-106" target="4IF-wAqoHZgAtcuKYzu8-103" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="240" y="-631" />
-              <mxPoint x="240" y="-770" />
-              <mxPoint x="80" y="-770" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="4IF-wAqoHZgAtcuKYzu8-125" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#A680B8;strokeWidth=2;startArrow=classic;startFill=1;" parent="1" source="4IF-wAqoHZgAtcuKYzu8-106" target="4IF-wAqoHZgAtcuKYzu8-103" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1552,6 +1555,11 @@
         <mxCell id="4IF-wAqoHZgAtcuKYzu8-113" value="差分服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fff2cc;fontColor=default;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-85" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ajqkv_lbGvBFG73F-SBQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4IF-wAqoHZgAtcuKYzu8-115" target="ajqkv_lbGvBFG73F-SBQ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="-400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4IF-wAqoHZgAtcuKYzu8-115" value="车载信号-辅助网" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontColor=default;strokeColor=#d6b656;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="-85" y="-646" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1591,7 +1599,7 @@
         <mxCell id="ivg4AKRCxPDNt3aYdW22-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ivg4AKRCxPDNt3aYdW22-1" target="4IF-wAqoHZgAtcuKYzu8-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ivg4AKRCxPDNt3aYdW22-1" value="循迹&lt;br&gt;按钮" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="ivg4AKRCxPDNt3aYdW22-1" value="模式&lt;br&gt;按钮" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="60" y="-1060" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b_0riTmSo1t4BOxF93DO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="b_0riTmSo1t4BOxF93DO-1" target="4IF-wAqoHZgAtcuKYzu8-103" edge="1">
@@ -1606,11 +1614,17 @@
         <mxCell id="4IF-wAqoHZgAtcuKYzu8-101" value="智能驾驶子系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-533.5" y="-940" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ajqkv_lbGvBFG73F-SBQ-2" value="OCC&lt;br&gt;旁路" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-1060" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ajqkv_lbGvBFG73F-SBQ-7" value="地面调度中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="5Sw6UmnZ15V01GcxDGXr" name="横向控制安全部分与外部系统关联关系图">
-    <mxGraphModel dx="1674" dy="3099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="3244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1629,7 +1643,7 @@
         <mxCell id="boizk3Cv1wrMdAZA4N6E-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Nti6s0JKWWUjnWn7Pnm0-48" target="boizk3Cv1wrMdAZA4N6E-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fI0Vj5BSCrW7VSIR1old-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="Nti6s0JKWWUjnWn7Pnm0-48" target="fI0Vj5BSCrW7VSIR1old-1">
+        <mxCell id="fI0Vj5BSCrW7VSIR1old-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classicThin;startFill=1;" parent="1" source="Nti6s0JKWWUjnWn7Pnm0-48" target="fI0Vj5BSCrW7VSIR1old-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nti6s0JKWWUjnWn7Pnm0-48" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;GPKydue6zoJXwUx4ma1c4SqAniA&quot;&gt;&lt;div class=&quot;old-record-id-GPKydue6zoJXwUx4ma1c4SqAniA&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;横向控制-功能安全&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;verticalAlign=top;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
@@ -1751,14 +1765,14 @@
         <mxCell id="boizk3Cv1wrMdAZA4N6E-19" value="差分服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="502" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fI0Vj5BSCrW7VSIR1old-1" value="安全制动&lt;br&gt;旁路开关" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="fI0Vj5BSCrW7VSIR1old-1" value="安全制动&lt;br&gt;旁路开关" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1590" y="-1040" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="DAS系统与外部系统通信链路图 高鑫鹏" id="WvgsV70jPdcutIEzbD2q">
-    <mxGraphModel dx="2501" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2501" dy="2075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MlJxGsaLasZlbV2H4Bvv-0" />
         <mxCell id="MlJxGsaLasZlbV2H4Bvv-1" parent="MlJxGsaLasZlbV2H4Bvv-0" />
