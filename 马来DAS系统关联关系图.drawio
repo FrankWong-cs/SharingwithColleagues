@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T07:10:39.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fgAGZ0fdnUCrQvHM0gRJ" version="22.1.11" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-19T07:12:14.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FrMacjekVGg9EiGbsLnj" version="22.1.11" type="github" pages="8">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="2514" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
           <mxGeometry x="1060" y="-220" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-48" value="HMI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="151" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="181" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-49" value="循迹控制-性能-SIL0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-50" y="260" width="80" height="60" as="geometry" />
@@ -874,6 +874,18 @@
         </mxCell>
         <mxCell id="5FPLXd_CRi9cUbsXNRhK-222" value="安全制动&lt;br&gt;旁路开关" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="747" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5FPLXd_CRi9cUbsXNRhK-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;startArrow=classic;startFill=1;" edge="1" parent="1" source="5FPLXd_CRi9cUbsXNRhK-223" target="kV2-ElPKzwBOEJ-UU_A2-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="465" />
+              <mxPoint x="250" y="290" />
+              <mxPoint x="272" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5FPLXd_CRi9cUbsXNRhK-223" value="车载媒体网络&lt;br&gt;下地" style="whiteSpace=wrap;html=1;align=center;fontSize=15;fillColor=#dae8fc;fontColor=default;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-91" y="430" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
