@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T07:04:48.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EO75XD3K9Sya8TCGw8Er" version="22.1.11" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-19T07:06:07.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oArzlF3_L2FcQrB5LEav" version="22.1.11" type="github" pages="8">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="3218" dy="2223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -884,7 +884,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9U1DxD7QZlR0YzYpBEyV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#b85450;strokeWidth=4;fillColor=#f8cecc;startArrow=classic;startFill=1;" parent="1" source="QA0R_lEdsybjFQ6YRMCE-4" target="QA0R_lEdsybjFQ6YRMCE-56" edge="1">
+        <mxCell id="9U1DxD7QZlR0YzYpBEyV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#82b366;strokeWidth=4;fillColor=#d5e8d4;startArrow=classic;startFill=1;" parent="1" source="QA0R_lEdsybjFQ6YRMCE-4" target="QA0R_lEdsybjFQ6YRMCE-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="130" y="50" />
@@ -893,7 +893,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9U1DxD7QZlR0YzYpBEyV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#b85450;strokeWidth=4;fillColor=#f8cecc;startArrow=classic;startFill=1;" parent="1" source="QA0R_lEdsybjFQ6YRMCE-7" target="QA0R_lEdsybjFQ6YRMCE-56" edge="1">
+        <mxCell id="9U1DxD7QZlR0YzYpBEyV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#82b366;strokeWidth=4;fillColor=#d5e8d4;startArrow=classic;startFill=1;" parent="1" source="QA0R_lEdsybjFQ6YRMCE-7" target="QA0R_lEdsybjFQ6YRMCE-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="190" y="135" />
@@ -935,6 +935,15 @@
             <mxPoint x="280" y="330" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TrsjxISOQUmTpQYIu-cN-1" value="循迹&lt;br&gt;按钮" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="477" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TrsjxISOQUmTpQYIu-cN-2" value="蜂鸣器" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="617" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TrsjxISOQUmTpQYIu-cN-3" value="安全制动&lt;br&gt;旁路开关" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="747" y="410" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
