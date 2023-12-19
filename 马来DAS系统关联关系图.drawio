@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T07:09:50.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7ELXZFsI5RAMdL23Q1Nl" version="22.1.11" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-19T07:10:39.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fgAGZ0fdnUCrQvHM0gRJ" version="22.1.11" type="github" pages="8">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="2514" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,14 +214,6 @@
             <mxPoint x="13" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dO7dVruccK_q2NAqXuD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-56" target="kV2-ElPKzwBOEJ-UU_A2-44" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="938" y="22" />
-              <mxPoint x="938" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-56" value="STW-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontColor=default;strokeColor=#82b366;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="612" y="7" width="120" height="60" as="geometry" />
         </mxCell>
@@ -275,14 +267,6 @@
             <mxPoint x="10" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dO7dVruccK_q2NAqXuD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-65" target="kV2-ElPKzwBOEJ-UU_A2-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1050" y="180" />
-              <mxPoint x="1050" y="289" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-65" value="STW-2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontColor=default;strokeColor=#82b366;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="612" y="135" width="120" height="60" as="geometry" />
         </mxCell>
@@ -330,9 +314,6 @@
           <mxGeometry x="-0.4337" y="-3" relative="1" as="geometry">
             <mxPoint x="-3" y="-1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="8dO7dVruccK_q2NAqXuD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-74" target="kV2-ElPKzwBOEJ-UU_A2-56" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-74" value="安全以太网交换机" style="whiteSpace=wrap;html=1;align=center;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="246" y="170" width="104" height="80" as="geometry" />
@@ -395,22 +376,6 @@
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-87" value="SIL2-CAN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="kV2-ElPKzwBOEJ-UU_A2-86" vertex="1" connectable="0">
           <mxGeometry x="0.4002" y="2" relative="1" as="geometry">
             <mxPoint x="-130" y="-13" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8dO7dVruccK_q2NAqXuD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#B83021;strokeWidth=4;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-4" target="kV2-ElPKzwBOEJ-UU_A2-56" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-129" y="-20" />
-              <mxPoint x="642" y="-20" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8dO7dVruccK_q2NAqXuD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#B83021;strokeWidth=4;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-7" target="kV2-ElPKzwBOEJ-UU_A2-56" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="140" y="135" />
-              <mxPoint x="140" y="22" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5FPLXd_CRi9cUbsXNRhK-109" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=dashed;dashed=1;" vertex="1" parent="1">
@@ -885,6 +850,30 @@
         </mxCell>
         <mxCell id="5FPLXd_CRi9cUbsXNRhK-216" value="安全制动&lt;br&gt;旁路开关" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="716" y="2040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5FPLXd_CRi9cUbsXNRhK-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5FPLXd_CRi9cUbsXNRhK-218">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5FPLXd_CRi9cUbsXNRhK-218" value="循迹&lt;br&gt;按钮" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="477" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5FPLXd_CRi9cUbsXNRhK-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5FPLXd_CRi9cUbsXNRhK-220">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5FPLXd_CRi9cUbsXNRhK-220" value="蜂鸣器&lt;br&gt;灯带" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5FPLXd_CRi9cUbsXNRhK-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5FPLXd_CRi9cUbsXNRhK-222">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5FPLXd_CRi9cUbsXNRhK-222" value="安全制动&lt;br&gt;旁路开关" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="747" y="410" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
