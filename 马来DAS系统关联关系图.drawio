@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T01:34:23.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="yt1UFAYdGky4Vd9Hj2iF" version="22.1.11" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-12-25T01:35:38.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="5BqDs7mH1PFakxY6gb4C" version="22.1.11" type="github" pages="9">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="1621" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2204,7 +2204,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3ztvWuloPK0yJphaI_Wo" name="第 9 页">
-    <mxGraphModel dx="467" dy="295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2355,7 +2355,7 @@
         </mxCell>
         <mxCell id="q6a5-0fQt7WiQYL0cC4O-52" value="需做路由功能" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="q6a5-0fQt7WiQYL0cC4O-50">
           <mxGeometry x="-0.487" y="-2" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q6a5-0fQt7WiQYL0cC4O-30" value="DAS3交换机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -2398,6 +2398,17 @@
         </mxCell>
         <mxCell id="q6a5-0fQt7WiQYL0cC4O-56" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q6a5-0fQt7WiQYL0cC4O-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" edge="1" parent="1" source="q6a5-0fQt7WiQYL0cC4O-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q6a5-0fQt7WiQYL0cC4O-59" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="460" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
