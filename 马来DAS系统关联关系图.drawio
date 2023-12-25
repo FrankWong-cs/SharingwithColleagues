@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T01:29:32.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="TPsanh0bDwqq9nCE1hQJ" version="22.1.11" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-12-25T01:31:23.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="XM8D9li7zqWoLB_j8ekt" version="22.1.11" type="github" pages="9">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="1621" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2214,14 +2214,14 @@
         <mxCell id="q6a5-0fQt7WiQYL0cC4O-28" value="MC2" style="text;strokeColor=#9673a6;align=center;fillColor=default;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=31;fontStyle=1;horizontal=1;strokeWidth=8;" vertex="1" parent="1">
           <mxGeometry x="530" y="80" width="440" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="q6a5-0fQt7WiQYL0cC4O-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#FFFF00;dashed=1;strokeWidth=4;" edge="1" parent="1" source="q6a5-0fQt7WiQYL0cC4O-30" target="q6a5-0fQt7WiQYL0cC4O-2">
+        <mxCell id="q6a5-0fQt7WiQYL0cC4O-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#00FF00;dashed=1;strokeWidth=4;" edge="1" parent="1" source="q6a5-0fQt7WiQYL0cC4O-30" target="q6a5-0fQt7WiQYL0cC4O-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="590" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6a5-0fQt7WiQYL0cC4O-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1.028;entryY=0.378;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#FFFF00;dashed=1;strokeWidth=4;entryPerimeter=0;" edge="1" parent="1" source="q6a5-0fQt7WiQYL0cC4O-30" target="q6a5-0fQt7WiQYL0cC4O-1">
+        <mxCell id="q6a5-0fQt7WiQYL0cC4O-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1.028;entryY=0.378;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#00FF00;dashed=1;strokeWidth=4;entryPerimeter=0;" edge="1" parent="1" source="q6a5-0fQt7WiQYL0cC4O-30" target="q6a5-0fQt7WiQYL0cC4O-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="460" as="sourcePoint" />
             <mxPoint x="270" y="210" as="targetPoint" />
@@ -2320,7 +2320,7 @@
         <mxCell id="q6a5-0fQt7WiQYL0cC4O-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="q6a5-0fQt7WiQYL0cC4O-24" target="q6a5-0fQt7WiQYL0cC4O-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q6a5-0fQt7WiQYL0cC4O-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#FFFF00;dashed=1;strokeWidth=4;" edge="1" parent="1" source="q6a5-0fQt7WiQYL0cC4O-24" target="q6a5-0fQt7WiQYL0cC4O-1">
+        <mxCell id="q6a5-0fQt7WiQYL0cC4O-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#00FF00;dashed=1;strokeWidth=4;" edge="1" parent="1" source="q6a5-0fQt7WiQYL0cC4O-24" target="q6a5-0fQt7WiQYL0cC4O-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="130" y="465" />
@@ -2328,7 +2328,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6a5-0fQt7WiQYL0cC4O-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#FFFF00;dashed=1;strokeWidth=4;" edge="1" parent="1" source="q6a5-0fQt7WiQYL0cC4O-24" target="q6a5-0fQt7WiQYL0cC4O-2">
+        <mxCell id="q6a5-0fQt7WiQYL0cC4O-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#00FF00;dashed=1;strokeWidth=4;" edge="1" parent="1" source="q6a5-0fQt7WiQYL0cC4O-24" target="q6a5-0fQt7WiQYL0cC4O-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="450" as="sourcePoint" />
             <mxPoint x="360" y="255" as="targetPoint" />
@@ -2375,6 +2375,19 @@
         </mxCell>
         <mxCell id="q6a5-0fQt7WiQYL0cC4O-46" value="有可能连接在MC2端的VCMS交换板上" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="375" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q6a5-0fQt7WiQYL0cC4O-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#00FF00;" edge="1" parent="1" source="q6a5-0fQt7WiQYL0cC4O-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="783" y="260" />
+              <mxPoint x="665" y="260" />
+              <mxPoint x="665" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q6a5-0fQt7WiQYL0cC4O-53" value="待路由功能确定能否实现，如不能实现需添加直连网线" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00FF00;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="685" y="170" width="195" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
