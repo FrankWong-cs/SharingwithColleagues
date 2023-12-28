@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T06:37:03.890Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Hyg38vzHWRZR_3KWWbUe" version="22.1.12" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-12-28T01:39:02.422Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Vg6brt2pUe9cS-eGRjQn" version="22.1.12" type="github" pages="9">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
-    <mxGraphModel dx="2309" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2501" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,6 +86,9 @@
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-22" value="智能驾驶机箱" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-60" y="190" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnf8sOF-xUQ5kVQlb-JE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-23" target="Qnf8sOF-xUQ5kVQlb-JE-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-23" value="安全计算模组" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=20;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="430" y="-50" width="440" height="400" as="geometry" />
@@ -371,7 +374,7 @@
             <mxPoint x="650" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5FPLXd_CRi9cUbsXNRhK-220" value="蜂鸣器&lt;br&gt;灯带" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
+        <mxCell id="5FPLXd_CRi9cUbsXNRhK-220" value="蜂鸣器1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="410" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5FPLXd_CRi9cUbsXNRhK-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5FPLXd_CRi9cUbsXNRhK-222" edge="1">
@@ -394,11 +397,14 @@
         <mxCell id="5FPLXd_CRi9cUbsXNRhK-223" value="车载媒体网络&lt;br&gt;下地" style="whiteSpace=wrap;html=1;align=center;fontSize=15;fillColor=#dae8fc;fontColor=default;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-91" y="430" width="170" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Qnf8sOF-xUQ5kVQlb-JE-1" value="蜂鸣器2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="lsjFzdNTHn-OdfoM8NlI" name="循迹系统全连接图 高鑫鹏">
-    <mxGraphModel dx="2501" dy="2075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3218" dy="2256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -423,12 +429,11 @@
         <mxCell id="QA0R_lEdsybjFQ6YRMCE-4" value="传感器1-1&lt;br style=&quot;font-size: 16px;&quot;&gt;GPS-RTK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-249" y="35" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QA0R_lEdsybjFQ6YRMCE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="QA0R_lEdsybjFQ6YRMCE-7" target="QA0R_lEdsybjFQ6YRMCE-74" edge="1">
+        <mxCell id="QA0R_lEdsybjFQ6YRMCE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QA0R_lEdsybjFQ6YRMCE-7" target="QA0R_lEdsybjFQ6YRMCE-74" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="59" y="165" />
               <mxPoint x="59" y="210" />
-              <mxPoint x="246" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2197,7 +2202,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3ztvWuloPK0yJphaI_Wo" name="整车网络通信拓扑">
-    <mxGraphModel dx="1482" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2332,7 +2337,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ClAc9zHBUkfoDsZg7Clt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="q6a5-0fQt7WiQYL0cC4O-24" target="q6a5-0fQt7WiQYL0cC4O-30">
+        <mxCell id="ClAc9zHBUkfoDsZg7Clt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="q6a5-0fQt7WiQYL0cC4O-24" target="q6a5-0fQt7WiQYL0cC4O-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="490" y="480" />
