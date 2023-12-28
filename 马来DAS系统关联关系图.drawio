@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T07:37:50.189Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gcmkzG2pa0UXsBLzcMwT" version="22.1.15" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-12-28T07:39:35.776Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="K3skuOgmaJh-KaKsHzXJ" version="22.1.15" type="github" pages="9">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="2501" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -916,7 +916,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GJm1DADgoG_9GpByzgdt" name="安全继电器逻辑硬线回路">
-    <mxGraphModel dx="1522" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -965,17 +965,16 @@
             <mxPoint x="13" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g0bjd9XSqsmkl1bo5QIL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.993;exitY=0.181;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" parent="1" source="g0bjd9XSqsmkl1bo5QIL-16" edge="1">
+        <mxCell id="g0bjd9XSqsmkl1bo5QIL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;exitX=1.003;exitY=0.189;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="g0bjd9XSqsmkl1bo5QIL-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="711" y="535" as="sourcePoint" />
+            <mxPoint x="720" y="530" as="sourcePoint" />
             <mxPoint x="761" y="605" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="711" y="531" />
-              <mxPoint x="761" y="530" />
+              <mxPoint x="761" y="531" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g0bjd9XSqsmkl1bo5QIL-20" value="DO 5V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="g0bjd9XSqsmkl1bo5QIL-13" vertex="1" connectable="0">
+        <mxCell id="g0bjd9XSqsmkl1bo5QIL-20" value="DO 24V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="g0bjd9XSqsmkl1bo5QIL-13" vertex="1" connectable="0">
           <mxGeometry x="0.3833" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1029,7 +1028,7 @@
         <mxCell id="g0bjd9XSqsmkl1bo5QIL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="g0bjd9XSqsmkl1bo5QIL-15" target="g0bjd9XSqsmkl1bo5QIL-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g0bjd9XSqsmkl1bo5QIL-11" value="DO 5V&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="g0bjd9XSqsmkl1bo5QIL-10" vertex="1" connectable="0">
+        <mxCell id="g0bjd9XSqsmkl1bo5QIL-11" value="DO 24V&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="g0bjd9XSqsmkl1bo5QIL-10" vertex="1" connectable="0">
           <mxGeometry x="0.5944" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1108,17 +1107,12 @@
         <mxCell id="z1nPETjoCpWDoCizqoXq-6" value="安全无关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;" parent="z1nPETjoCpWDoCizqoXq-1" vertex="1">
           <mxGeometry y="160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g0bjd9XSqsmkl1bo5QIL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g0bjd9XSqsmkl1bo5QIL-4" target="g0bjd9XSqsmkl1bo5QIL-25" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="660" y="650" />
-              <mxPoint x="660" y="615" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="yiB6naaJum3t0lrdndWe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g0bjd9XSqsmkl1bo5QIL-4" target="g0bjd9XSqsmkl1bo5QIL-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g0bjd9XSqsmkl1bo5QIL-9" value="5V 线圈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="g0bjd9XSqsmkl1bo5QIL-8" vertex="1" connectable="0">
-          <mxGeometry x="0.0836" y="-3" relative="1" as="geometry">
-            <mxPoint x="-39" y="-3" as="offset" />
+        <mxCell id="yiB6naaJum3t0lrdndWe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="g0bjd9XSqsmkl1bo5QIL-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="664.7777777777778" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g0bjd9XSqsmkl1bo5QIL-4" value="安全继电器1 触点" style="whiteSpace=wrap;html=1;fontSize=21;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
@@ -1138,18 +1132,6 @@
         <mxCell id="g0bjd9XSqsmkl1bo5QIL-5" value="安全继电器2 触点" style="whiteSpace=wrap;html=1;fontSize=21;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="635" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g0bjd9XSqsmkl1bo5QIL-6" value="5" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="g0bjd9XSqsmkl1bo5QIL-26" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="620" as="sourcePoint" />
-            <mxPoint x="760" y="460" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="g0bjd9XSqsmkl1bo5QIL-7" value="5V 线圈电压供电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="g0bjd9XSqsmkl1bo5QIL-6" vertex="1" connectable="0">
-          <mxGeometry x="-0.3891" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="g0bjd9XSqsmkl1bo5QIL-15" value="STW-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontColor=default;strokeColor=#82b366;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="590" y="450" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1162,33 +1144,11 @@
         <mxCell id="g0bjd9XSqsmkl1bo5QIL-19" value="执行器1&lt;br style=&quot;font-size: 20px;&quot;&gt;应急制动系统" style="whiteSpace=wrap;html=1;align=center;fontSize=20;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="950" y="600" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g0bjd9XSqsmkl1bo5QIL-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="g0bjd9XSqsmkl1bo5QIL-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="690" as="sourcePoint" />
-            <mxPoint x="620" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="g0bjd9XSqsmkl1bo5QIL-30" value="24V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="g0bjd9XSqsmkl1bo5QIL-24" vertex="1" connectable="0">
-          <mxGeometry x="0.2372" y="4" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="g0bjd9XSqsmkl1bo5QIL-25" value="线圈" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="700" y="600" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g0bjd9XSqsmkl1bo5QIL-26" value="线圈" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="470" y="600" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="g0bjd9XSqsmkl1bo5QIL-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="g0bjd9XSqsmkl1bo5QIL-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="670" as="sourcePoint" />
-            <mxPoint x="830" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="g0bjd9XSqsmkl1bo5QIL-29" value="5V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="g0bjd9XSqsmkl1bo5QIL-28" vertex="1" connectable="0">
-          <mxGeometry x="0.2966" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
