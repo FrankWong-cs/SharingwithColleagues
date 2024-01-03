@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T05:28:49.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="rVw0qaElNVKEFU6R03hI" version="22.1.16" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-01-03T05:30:55.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="LS8ZyR4tjkCoDtTlfwsm" version="22.1.16" type="github" pages="10">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="3096" dy="2600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2315,7 +2315,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ex2btfYCEbv3Ak1I8BUP" name="DAS系统安全交换机数据流示意图">
-    <mxGraphModel dx="1961" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2881,6 +2881,11 @@
             <mxPoint x="400" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wul9R8tnieDxu4nmc7ys-109" value="1、待确定" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wul9R8tnieDxu4nmc7ys-98">
+          <mxGeometry x="0.1305" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wul9R8tnieDxu4nmc7ys-100" value="图例" style="text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="1175" y="1350" width="140" height="150" as="geometry" />
         </mxCell>
@@ -2905,11 +2910,24 @@
             <mxPoint x="604.29" y="1219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wul9R8tnieDxu4nmc7ys-110" value="1、待确定" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wul9R8tnieDxu4nmc7ys-107">
+          <mxGeometry x="0.069" y="6" relative="1" as="geometry">
+            <mxPoint x="-40" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wul9R8tnieDxu4nmc7ys-108" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#6a00ff;strokeColor=#3700CC;shape=link;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="wul9R8tnieDxu4nmc7ys-24" target="wul9R8tnieDxu4nmc7ys-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="1040" as="sourcePoint" />
             <mxPoint x="420" y="1240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wul9R8tnieDxu4nmc7ys-111" value="2、待确定" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wul9R8tnieDxu4nmc7ys-108">
+          <mxGeometry x="0.161" y="-4" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wul9R8tnieDxu4nmc7ys-112" value="1、如何构建双冗余环路" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="1540" width="340" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
