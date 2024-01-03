@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T03:10:55.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="hmUu7gNTfwKOocpzzkaU" version="22.1.16" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-01-03T03:46:30.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="LKfigwitfWv90eCRjfVn" version="22.1.16" type="github" pages="10">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="3096" dy="2600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2632,7 +2632,7 @@
           <mxGeometry x="-320" y="1320" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bMHvnZfrQDNuOyNUEf0E-5" value="下地链路:&lt;br&gt;IP:192.168.0.xxx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontColor=default;strokeColor=#d6b656;fontSize=13;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="-190" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bMHvnZfrQDNuOyNUEf0E-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="-145" y="1200" width="30" height="30" as="geometry" />
@@ -2643,8 +2643,8 @@
             <mxPoint x="-125" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bMHvnZfrQDNuOyNUEf0E-11" value="组合惯导：&lt;br&gt;IP：可调整（仅1个IP）&lt;br&gt;192.168.0.xx?/10.0.1.xxx?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="1040" width="145" height="60" as="geometry" />
+        <mxCell id="bMHvnZfrQDNuOyNUEf0E-11" value="组合惯导：&lt;br&gt;IP：可调整（仅1个IP，可配置4个端口号）&lt;br&gt;192.168.0.xx?/10.0.1.xxx?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1031.25" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bMHvnZfrQDNuOyNUEf0E-12" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#f0a30a;strokeColor=#BD7000;shape=link;entryX=0;entryY=1;entryDx=0;entryDy=0;width=4.814814814814813;strokeWidth=3;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="wul9R8tnieDxu4nmc7ys-6" source="sUEIvPS2Dnk6Hf1SUmmZ-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2694,8 +2694,8 @@
             <mxPoint x="-13" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wul9R8tnieDxu4nmc7ys-12" value="组合惯导：&lt;br&gt;IP：可调整（仅1个IP）&lt;br&gt;192.168.0.xx?/10.0.1.xxx?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="106.25" y="1040" width="142.5" height="60" as="geometry" />
+        <mxCell id="wul9R8tnieDxu4nmc7ys-12" value="组合惯导：&lt;br&gt;IP：可调整（仅1个IP，可配置4个端口号）&lt;br&gt;192.168.0.xx?/10.0.1.xxx?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="86.25" y="1031.25" width="158.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wul9R8tnieDxu4nmc7ys-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="168.75" y="1091.25" width="17.5" height="17.5" as="geometry" />
