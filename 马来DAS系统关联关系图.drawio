@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T05:42:19.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="kVLUTH0uP5JSEzvPajSN" version="22.1.16" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-01-03T05:44:17.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="B0JyvEGAe1SlMb-WR6uZ" version="22.1.16" type="github" pages="10">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="3096" dy="2600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2819,7 +2819,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wul9R8tnieDxu4nmc7ys-85" value="组合惯导：&lt;br&gt;IP：可调整（仅1个IP，可配置4个端口号）&lt;br&gt;192.168.0.xx?/10.0.1.xxx?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="785" y="1020" width="145" height="60" as="geometry" />
+          <mxGeometry x="785" y="1040" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wul9R8tnieDxu4nmc7ys-86" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#f0a30a;strokeColor=#BD7000;shape=link;entryX=0;entryY=1;entryDx=0;entryDy=0;width=4.814814814814813;strokeWidth=3;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wul9R8tnieDxu4nmc7ys-88" target="wul9R8tnieDxu4nmc7ys-89">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2836,7 +2836,7 @@
           <mxGeometry x="843.75" y="1191.25" width="47.5" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="wul9R8tnieDxu4nmc7ys-89" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="858.75" y="1080" width="17.5" height="17.5" as="geometry" />
+          <mxGeometry x="858.75" y="1100" width="17.5" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="wul9R8tnieDxu4nmc7ys-90" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#60a917;strokeColor=#2D7600;shape=link;entryX=1;entryY=1;entryDx=0;entryDy=0;width=4.814814814814813;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" target="wul9R8tnieDxu4nmc7ys-95">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2861,10 +2861,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wul9R8tnieDxu4nmc7ys-94" value="组合惯导：&lt;br&gt;IP：可调整（仅1个IP，可配置4个端口号）&lt;br&gt;192.168.0.xx?/10.0.1.xxx?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="941.25" y="1020" width="158.75" height="60" as="geometry" />
+          <mxGeometry x="941.25" y="1040" width="158.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wul9R8tnieDxu4nmc7ys-95" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="1023.75" y="1080" width="17.5" height="17.5" as="geometry" />
+          <mxGeometry x="1023.75" y="1100" width="17.5" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="wul9R8tnieDxu4nmc7ys-96" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="1006.25" y="1191.25" width="47.5" height="47.5" as="geometry" />
@@ -2904,7 +2904,7 @@
         <mxCell id="wul9R8tnieDxu4nmc7ys-105" value="实际网口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1215" y="1460" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wul9R8tnieDxu4nmc7ys-107" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#6a00ff;strokeColor=#3700CC;shape=link;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+        <mxCell id="wul9R8tnieDxu4nmc7ys-107" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#6a00ff;strokeColor=#3700CC;shape=link;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="wul9R8tnieDxu4nmc7ys-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="604.29" y="1019" as="sourcePoint" />
             <mxPoint x="604.29" y="1219" as="targetPoint" />
@@ -2926,7 +2926,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wul9R8tnieDxu4nmc7ys-112" value="1、如何构建双冗余环路，避免因VCMS交换设备故障导致与信号系统中断。&lt;br style=&quot;font-size: 22px;&quot;&gt;第一种方案：与VCMS交换板连接。第二种方案：两台安全交换机连接。&lt;br&gt;2、交换机内存在双冗余链路。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="wul9R8tnieDxu4nmc7ys-112" value="1、如何构建双冗余环路，避免因VCMS交换设备故障导致与信号系统中断。&lt;br style=&quot;font-size: 22px;&quot;&gt;第一种方案：与VCMS交换板连接。第二种方案：两台安全交换机连接。&lt;br&gt;2、交换机内存在双。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry y="1530" width="885" height="110" as="geometry" />
         </mxCell>
       </root>
