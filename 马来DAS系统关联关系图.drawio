@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T07:58:15.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="bXNG2KCchWILD6CIVkLj" version="22.1.16" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-01-04T08:35:24.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="1KKtDQXnIH5zuJuuqETm" version="22.1.16" type="github" pages="10">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="1621" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2315,7 +2315,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ex2btfYCEbv3Ak1I8BUP" name="DAS系统安全交换机数据流示意图">
-    <mxGraphModel dx="1552" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2424" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2481,7 +2481,7 @@
           <mxGeometry x="720" y="1048.75" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wul9R8tnieDxu4nmc7ys-24" value="X5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;fillColor=default;fontColor=default;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="384" y="1219" width="30" height="30" as="geometry" />
+          <mxGeometry x="440" y="1219" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wul9R8tnieDxu4nmc7ys-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;VIPER-212A？&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=3;verticalAlign=top;direction=west;" parent="1" vertex="1">
           <mxGeometry x="550" y="1169" width="750" height="130" as="geometry" />
@@ -2633,7 +2633,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wul9R8tnieDxu4nmc7ys-112" value="1、如何构建双冗余环路，避免因VCMS交换设备故障导致DAS系统与信号系统中断。&lt;br style=&quot;font-size: 22px;&quot;&gt;第一种方案：与VCMS交换板连接。&lt;br&gt;第二种方案：两台安全交换机连接。&lt;br&gt;疑问①两种方案差异？ 第一种：X4与X5形成同一个VLAN。X4换另一个VLAN。&lt;br&gt;DAS系统内部需要更换为另一个网段。&lt;br&gt;VCMS仅能设置1个网关，无法设置网关。&lt;br&gt;安全交换机将蓝网网段转换为与整车网络IP网段一致的。两台交换机做VRRP，实现自适应选择1个X4链路。蓝网与绿网需要做VRRP联动，做到一个group里面。&lt;br&gt;网口线缆中断的话交换机能够识别到，可以设置报警（灯闪），交换机对外发送报文-通过SNMP协议发送。&lt;br&gt;添加两根交换机连接线，交换机做链路聚合捆绑协议。添加管理规定检查报警灯。&lt;br&gt;疑问②如选用第二种方案，需明确：跨接整车的通信线缆如何维护。&lt;br&gt;2、存在一个网口需连接到双VLAN内，交换机内每个网口都如何配置？&lt;br&gt;通过三层交换进行数据流分配。&lt;br&gt;3、能否配置网口，仅允许授权的IP（端口）通过？&lt;br&gt;可以。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="-38.75" y="430" width="1130" height="350" as="geometry" />
+          <mxGeometry x="-120" y="340" width="1211.25" height="440" as="geometry" />
         </mxCell>
         <mxCell id="sUEIvPS2Dnk6Hf1SUmmZ-8" value="X7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="135" y="1260" width="30" height="30" as="geometry" />
@@ -2707,18 +2707,18 @@
         <mxCell id="wul9R8tnieDxu4nmc7ys-130" value="千兆网口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1226.25" y="1385" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GUUrYiahIueP_y48JK7s-4" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=link;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;width=3.846153846153845;" edge="1" parent="1">
+        <mxCell id="GUUrYiahIueP_y48JK7s-4" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=link;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;width=3.846153846153845;" edge="1" parent="1" source="GUUrYiahIueP_y48JK7s-5" target="GUUrYiahIueP_y48JK7s-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414" y="1190" as="sourcePoint" />
-            <mxPoint x="590" y="1191" as="targetPoint" />
+            <mxPoint x="454" y="1274.5" as="sourcePoint" />
+            <mxPoint x="630" y="1275.5" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GUUrYiahIueP_y48JK7s-5" value="X5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;fillColor=default;fontColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="384" y="1180" width="30" height="30" as="geometry" />
+          <mxGeometry x="447.5" y="1260" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GUUrYiahIueP_y48JK7s-6" value="X5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;fillColor=default;fontColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1172.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="590" y="1260" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GUUrYiahIueP_y48JK7s-8" value="X2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="-5" y="1200" width="50" height="50" as="geometry" />
@@ -2745,10 +2745,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUUrYiahIueP_y48JK7s-15" value="数据流1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GUUrYiahIueP_y48JK7s-15" value="数据流1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="-131.25" y="1140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GUUrYiahIueP_y48JK7s-16" value="数据流2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GUUrYiahIueP_y48JK7s-16" value="数据流2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="-50" y="1139" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GUUrYiahIueP_y48JK7s-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1">
@@ -2773,10 +2773,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUUrYiahIueP_y48JK7s-20" value="数据流1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GUUrYiahIueP_y48JK7s-20" value="数据流1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="31.879999999999995" y="1140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GUUrYiahIueP_y48JK7s-21" value="数据流2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GUUrYiahIueP_y48JK7s-21" value="数据流2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="113.13" y="1139" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GUUrYiahIueP_y48JK7s-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="sUEIvPS2Dnk6Hf1SUmmZ-35">
@@ -2799,10 +2799,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUUrYiahIueP_y48JK7s-25" value="数据流1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GUUrYiahIueP_y48JK7s-25" value="数据流1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="-60.62" y="1331" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GUUrYiahIueP_y48JK7s-26" value="数据流2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GUUrYiahIueP_y48JK7s-26" value="数据流2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="20.630000000000003" y="1330" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
