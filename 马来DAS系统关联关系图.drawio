@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T01:55:31.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="l1kuJbl5koMnp1lsmOOI" version="22.1.16" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-01-15T01:39:29.089Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AzJD6YqDqZvYOnH08B1M" version="22.1.18" type="github" pages="10">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
-    <mxGraphModel dx="1621" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2069" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1550,7 +1550,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5Sw6UmnZ15V01GcxDGXr" name="横向控制安全部分与外部系统关联关系图">
-    <mxGraphModel dx="1588" dy="3340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="3123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1670,10 +1670,10 @@
         <mxCell id="boizk3Cv1wrMdAZA4N6E-9" value="循迹&lt;br&gt;按钮" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1290" y="-1040" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="boizk3Cv1wrMdAZA4N6E-10" value="蜂鸣器" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="boizk3Cv1wrMdAZA4N6E-10" value="蜂鸣器-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1390" y="-1040" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="boizk3Cv1wrMdAZA4N6E-11" value="灯带" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="boizk3Cv1wrMdAZA4N6E-11" value="蜂鸣器-2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1490" y="-1040" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-12" value="安全制动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
