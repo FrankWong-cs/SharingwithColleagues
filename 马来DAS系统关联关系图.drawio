@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T09:09:46.629Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gneGDTkJTxYSOzIZwPia" version="24.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-27T08:57:33.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="cQxUiPaCM6X4rW63Aosc" version="24.1.0" type="github" pages="8">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
-    <mxGraphModel dx="2501" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1861" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,7 +337,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lsjFzdNTHn-OdfoM8NlI" name="循迹系统全连接图 高鑫鹏">
-    <mxGraphModel dx="1861" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1861" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -849,7 +849,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GJm1DADgoG_9GpByzgdt" name="安全继电器逻辑硬线回路">
-    <mxGraphModel dx="1034" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1469,7 +1469,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5Sw6UmnZ15V01GcxDGXr" name="横向控制安全部分与外部系统关联关系图">
-    <mxGraphModel dx="1723" dy="3173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="2839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1616,7 +1616,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ex2btfYCEbv3Ak1I8BUP" name="DAS系统安全交换机数据流示意图">
-    <mxGraphModel dx="1861" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1621" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1680,16 +1680,16 @@
             <mxPoint x="207.5" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sUEIvPS2Dnk6Hf1SUmmZ-29" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=default;shape=link;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;" parent="1" target="sUEIvPS2Dnk6Hf1SUmmZ-30" edge="1">
+        <mxCell id="sUEIvPS2Dnk6Hf1SUmmZ-29" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=default;shape=link;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="1370" as="sourcePoint" />
-            <mxPoint x="347.5" y="1150" as="targetPoint" />
+            <mxPoint x="290" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sUEIvPS2Dnk6Hf1SUmmZ-34" value="DAS设备pu300：&lt;br&gt;IP：10.0.3.xx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="sUEIvPS2Dnk6Hf1SUmmZ-34" value="DAS设备ORIN主模组：&lt;br&gt;IP：10.0.3.xx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="230" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sUEIvPS2Dnk6Hf1SUmmZ-35" value="DAS设备PU370：&lt;br&gt;IP：10.0.3.xx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="sUEIvPS2Dnk6Hf1SUmmZ-35" value="DAS设备从ORIN：&lt;br&gt;IP：10.0.3.xx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-50" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sUEIvPS2Dnk6Hf1SUmmZ-17" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;width=7.586206896551724;endSize=6.7531914893617015;startSize=6.7531914893617015;" parent="1" edge="1">
@@ -1731,7 +1731,7 @@
         <mxCell id="XBJbG6gzGURcNLofyL_W-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sUEIvPS2Dnk6Hf1SUmmZ-14" target="GUUrYiahIueP_y48JK7s-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sUEIvPS2Dnk6Hf1SUmmZ-14" value="X8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+        <mxCell id="sUEIvPS2Dnk6Hf1SUmmZ-14" value="X12" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;fillColor=#d80073;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="-82.5" y="1202.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wul9R8tnieDxu4nmc7ys-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;" parent="1" vertex="1">
@@ -1869,9 +1869,6 @@
         <mxCell id="sUEIvPS2Dnk6Hf1SUmmZ-8" value="X10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="135" y="1260" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sUEIvPS2Dnk6Hf1SUmmZ-30" value="X1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;fillColor=default;fontColor=default;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="275" y="1260" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="wul9R8tnieDxu4nmc7ys-33" value="X1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;direction=west;" parent="1" vertex="1">
           <mxGeometry x="775" y="1260" width="30" height="30" as="geometry" />
         </mxCell>
@@ -1945,7 +1942,7 @@
         <mxCell id="GUUrYiahIueP_y48JK7s-6" value="X9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;fillColor=default;fontColor=default;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="590" y="1260" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GUUrYiahIueP_y48JK7s-8" value="X4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+        <mxCell id="GUUrYiahIueP_y48JK7s-8" value="X8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;fillColor=#d80073;fontColor=#ffffff;strokeColor=#B20000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry y="1200" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="GUUrYiahIueP_y48JK7s-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;" parent="1" source="sUEIvPS2Dnk6Hf1SUmmZ-14" target="wul9R8tnieDxu4nmc7ys-6" edge="1">
@@ -2161,6 +2158,9 @@
         </mxCell>
         <mxCell id="GUUrYiahIueP_y48JK7s-57" value="网段3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1228.28" y="1600" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Km-SW6FCkmf08W2gVWqD-1" value="X4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1260" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
