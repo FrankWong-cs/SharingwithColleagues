@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T02:50:34.439Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gLy6JjwbAsSNSqxMowBT" version="24.2.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-15T02:52:32.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="K3vzYxlkckYpfPdQfylp" version="24.2.3" type="github" pages="8">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="2222" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kV2-ElPKzwBOEJ-UU_A2-21" value="100Mb&lt;br style=&quot;font-size: 11px;&quot;&gt;ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="kV2-ElPKzwBOEJ-UU_A2-20" vertex="1" connectable="0">
+        <mxCell id="kV2-ElPKzwBOEJ-UU_A2-21" value="1000Mb&lt;br style=&quot;font-size: 11px;&quot;&gt;ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="kV2-ElPKzwBOEJ-UU_A2-20" vertex="1" connectable="0">
           <mxGeometry x="0.4401" y="-2" relative="1" as="geometry">
             <mxPoint x="-41" y="-4" as="offset" />
           </mxGeometry>
@@ -1654,7 +1654,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ex2btfYCEbv3Ak1I8BUP" name="DAS系统安全交换机数据流示意图">
-    <mxGraphModel dx="2501" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2796" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
