@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T02:45:20.128Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="cQvA4CDX-QX5a6F71dO_" version="24.2.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-15T02:48:55.650Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="yQ4gAtve3yaV2k9iOR4H" version="24.2.3" type="github" pages="8">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
-    <mxGraphModel dx="2336" dy="1970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2222" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,24 +11,26 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="231" y="69.88235294117658" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="80" />
-              <mxPoint x="200" y="190" />
+              <mxPoint x="190" y="80" />
+              <mxPoint x="190" y="238" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-3" value="100MB&lt;div&gt;ETH&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kV2-ElPKzwBOEJ-UU_A2-2" vertex="1" connectable="0">
           <mxGeometry x="0.2177" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-149" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-4" value="传感器1-1&lt;br style=&quot;font-size: 16px;&quot;&gt;GNSS-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-249" y="35" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5FPLXd_CRi9cUbsXNRhK-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-7" target="kV2-ElPKzwBOEJ-UU_A2-74" edge="1">
+        <mxCell id="5FPLXd_CRi9cUbsXNRhK-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;entryX=-0.013;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-7" target="kV2-ElPKzwBOEJ-UU_A2-74" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="165" />
-              <mxPoint x="100" y="210" />
+              <mxPoint x="100" y="220" />
+              <mxPoint x="170" y="220" />
+              <mxPoint x="170" y="261" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -69,14 +71,14 @@
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-21" value="100Mb&lt;br style=&quot;font-size: 11px;&quot;&gt;ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="kV2-ElPKzwBOEJ-UU_A2-20" vertex="1" connectable="0">
           <mxGeometry x="0.4401" y="-2" relative="1" as="geometry">
-            <mxPoint x="-44" y="-3" as="offset" />
+            <mxPoint x="-30" y="-29" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-22" value="数据处理单元&lt;div&gt;域控制器&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;white-space: pre;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;font-family: LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;DPU&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-60" y="190" width="100" height="150" as="geometry" />
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-23" value="&lt;div style=&quot;color: rgb(0, 0, 0); font-size: 22px;&quot;&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;智能驾驶计算平台&lt;/font&gt;&lt;span style=&quot;font-size: 22px; background-color: initial;&quot;&gt;安全计算模组-&lt;/span&gt;&lt;span style=&quot;font-family: LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; white-space: pre; background-color: initial;&quot;&gt;IDCP&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=20;fillColor=#e6f0e5;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="440" y="-50" width="430" height="400" as="geometry" />
+          <mxGeometry x="440" y="-50" width="430" height="500" as="geometry" />
         </mxCell>
         <mxCell id="NCkZKYkkzQqteQvX5dYm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#82b366;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#d5e8d4;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-26" target="kV2-ElPKzwBOEJ-UU_A2-65" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -114,7 +116,7 @@
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-35" value="SIL2-100Mb&lt;br style=&quot;font-size: 16px;&quot;&gt;ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="kV2-ElPKzwBOEJ-UU_A2-34" vertex="1" connectable="0">
           <mxGeometry x="0.1152" relative="1" as="geometry">
-            <mxPoint x="-14" y="-55" as="offset" />
+            <mxPoint y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-39" target="kV2-ElPKzwBOEJ-UU_A2-22" edge="1">
@@ -169,7 +171,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="520" y="37" />
-              <mxPoint x="520" y="330" />
+              <mxPoint x="520" y="375" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -181,11 +183,12 @@
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-56" value="IDCP-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontColor=default;strokeColor=#82b366;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="612" y="7" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kV2-ElPKzwBOEJ-UU_A2-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.913;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;exitPerimeter=0;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-65" target="kV2-ElPKzwBOEJ-UU_A2-68" edge="1">
+        <mxCell id="kV2-ElPKzwBOEJ-UU_A2-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.913;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.626;entryDx=0;entryDy=0;strokeWidth=2;exitPerimeter=0;entryPerimeter=0;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-65" target="kV2-ElPKzwBOEJ-UU_A2-68" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="550" y="190" />
-              <mxPoint x="550" y="241" />
+              <mxPoint x="550" y="215" />
+              <mxPoint x="550" y="305" />
+              <mxPoint x="611" y="305" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -197,9 +200,14 @@
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#bfe4aa;strokeWidth=4;fillColor=#d5e8d4;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-65" target="kV2-ElPKzwBOEJ-UU_A2-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kV2-ElPKzwBOEJ-UU_A2-62" value="ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kV2-ElPKzwBOEJ-UU_A2-61" vertex="1" connectable="0">
+        <mxCell id="kV2-ElPKzwBOEJ-UU_A2-62" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22100MB%26lt%3Bdiv%20style%3D%26quot%3Bfont-size%3A%2016px%3B%26quot%3B%26gt%3BETH%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22470%22%20y%3D%22203.12121977349238%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kV2-ElPKzwBOEJ-UU_A2-61" vertex="1" connectable="0">
           <mxGeometry x="-0.0013" y="3" relative="1" as="geometry">
             <mxPoint x="3" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q_J35A2-4Ri1gg026Nyw-16" value="100MB&lt;div&gt;ETH&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kV2-ElPKzwBOEJ-UU_A2-61">
+          <mxGeometry x="-0.0811" y="1" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q_J35A2-4Ri1gg026Nyw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-65" target="q_J35A2-4Ri1gg026Nyw-2">
@@ -233,37 +241,38 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-65" value="IDCP-2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontColor=default;strokeColor=#82b366;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="612" y="135" width="120" height="60" as="geometry" />
+          <mxGeometry x="612" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-68" value="安全继电器-SR-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="612" y="229" width="120" height="49" as="geometry" />
+          <mxGeometry x="612" y="274" width="120" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NCkZKYkkzQqteQvX5dYm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-71" target="kV2-ElPKzwBOEJ-UU_A2-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-71" value="安全继电器-SR-2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="612" y="299" width="120" height="41" as="geometry" />
+          <mxGeometry x="612" y="344" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#bfe4aa;strokeWidth=4;fillColor=#d5e8d4;startArrow=classic;startFill=1;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-74" target="kV2-ElPKzwBOEJ-UU_A2-65" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="210" />
-              <mxPoint x="410" y="180" />
+              <mxPoint x="410" y="265" />
+              <mxPoint x="410" y="205" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-73" value="100MB&lt;div style=&quot;font-size: 16px;&quot;&gt;ETH&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="kV2-ElPKzwBOEJ-UU_A2-72" vertex="1" connectable="0">
           <mxGeometry x="-0.4337" y="-3" relative="1" as="geometry">
-            <mxPoint x="57" y="-7" as="offset" />
+            <mxPoint x="57" y="-31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-74" value="安全以太网交换机&lt;div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;white-space: pre;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;font-family: LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;SES&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="246" y="170" width="104" height="80" as="geometry" />
+          <mxGeometry x="246" y="210" width="104" height="110" as="geometry" />
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-68" target="kV2-ElPKzwBOEJ-UU_A2-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="910" y="254" />
+              <mxPoint x="732" y="300" />
+              <mxPoint x="910" y="300" />
               <mxPoint x="910" y="-70" />
             </Array>
             <mxPoint x="820.1421356237306" y="85.85786437626939" as="sourcePoint" />
@@ -311,19 +320,25 @@
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=4;strokeColor=#82b366;fillColor=#d5e8d4;startArrow=classic;startFill=1;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-7" target="kV2-ElPKzwBOEJ-UU_A2-65" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="242" y="135" />
+              <mxPoint x="242" y="160" />
+              <mxPoint x="550" y="160" />
+              <mxPoint x="550" y="175" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-87" value="SIL2-CAN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="kV2-ElPKzwBOEJ-UU_A2-86" vertex="1" connectable="0">
           <mxGeometry x="0.4002" y="2" relative="1" as="geometry">
-            <mxPoint x="-130" y="-13" as="offset" />
+            <mxPoint x="-83" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5FPLXd_CRi9cUbsXNRhK-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;startArrow=classic;startFill=1;" parent="1" source="5FPLXd_CRi9cUbsXNRhK-223" target="kV2-ElPKzwBOEJ-UU_A2-74" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="465" />
-              <mxPoint x="250" y="290" />
-              <mxPoint x="272" y="290" />
+              <mxPoint x="250" y="350" />
+              <mxPoint x="272" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
