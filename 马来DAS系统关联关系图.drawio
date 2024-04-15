@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T02:33:51.466Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="izMbEQl8N8G6JFx11P48" version="24.2.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-15T02:34:22.316Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tO8WSlgKMX0op34zBhqK" version="24.2.3" type="github" pages="8">
   <diagram name="循迹系统全连接图" id="CBUP-HR3QqebyW29lq4L">
-    <mxGraphModel dx="2166" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1981" dy="1694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,17 +257,17 @@
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-71" value="安全继电器-2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="612" y="299" width="120" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="kV2-ElPKzwBOEJ-UU_A2-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#bfe4aa;strokeWidth=4;fillColor=#d5e8d4;startArrow=classic;startFill=1;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-74" target="kV2-ElPKzwBOEJ-UU_A2-65" edge="1">
+        <mxCell id="kV2-ElPKzwBOEJ-UU_A2-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#bfe4aa;strokeWidth=4;fillColor=#d5e8d4;startArrow=classic;startFill=1;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-74" target="kV2-ElPKzwBOEJ-UU_A2-65" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="410" y="210" />
-              <mxPoint x="410" y="165" />
+              <mxPoint x="410" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-73" value="ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kV2-ElPKzwBOEJ-UU_A2-72" vertex="1" connectable="0">
           <mxGeometry x="-0.4337" y="-3" relative="1" as="geometry">
-            <mxPoint x="-3" y="-1" as="offset" />
+            <mxPoint x="-3" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-74" value="安全以太网交换机" style="whiteSpace=wrap;html=1;align=center;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
