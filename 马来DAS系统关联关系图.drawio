@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T10:41:36.893Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2qZhgHQuR4cPPCvv5usS" version="24.2.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-15T10:42:03.054Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CazHY4OlmNTl8ynuh2i9" version="24.2.5" type="github" pages="8">
   <diagram name="循迹系统全连接图-240415update" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="2261" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -273,10 +273,10 @@
         <mxCell id="kV2-ElPKzwBOEJ-UU_A2-71" value="安全继电器-SR-2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="612" y="344" width="120" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="kV2-ElPKzwBOEJ-UU_A2-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#bfe4aa;strokeWidth=4;fillColor=#d5e8d4;startArrow=classic;startFill=1;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-74" target="kV2-ElPKzwBOEJ-UU_A2-65" edge="1">
+        <mxCell id="kV2-ElPKzwBOEJ-UU_A2-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#bfe4aa;strokeWidth=4;fillColor=#d5e8d4;startArrow=classic;startFill=1;" parent="1" source="kV2-ElPKzwBOEJ-UU_A2-74" target="kV2-ElPKzwBOEJ-UU_A2-65" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="265" />
+              <mxPoint x="410" y="293" />
               <mxPoint x="410" y="205" />
             </Array>
           </mxGeometry>
