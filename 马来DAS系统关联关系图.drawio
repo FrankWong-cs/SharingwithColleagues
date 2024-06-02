@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-01T11:06:10.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="zZUcx8_AQBqQ9CcZofBc" version="24.4.13" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-06-02T06:38:16.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="hcReGY72ru0aNMId3qp2" version="24.4.13" type="github" pages="9">
   <diagram name="循迹系统全连接图-240415update" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="2501" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2808,7 +2808,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xV9Nx7bZ_f_Zakjfrdzp" name="DAS软件与外部实体关系">
-    <mxGraphModel dx="3420" dy="2611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3390" dy="2389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3063,18 +3063,23 @@
         <mxCell id="T8ZDAWZMFlxi3WID9TbE-139" value="副CAN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="316" y="-580" width="97.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T8ZDAWZMFlxi3WID9TbE-140" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T8ZDAWZMFlxi3WID9TbE-138" edge="1">
+        <mxCell id="T8ZDAWZMFlxi3WID9TbE-140" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="T8ZDAWZMFlxi3WID9TbE-138" edge="1" target="T8ZDAWZMFlxi3WID9TbE-120">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="-621" as="sourcePoint" />
             <mxPoint x="250" y="-644" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="316" y="-637" />
+              <mxPoint x="300" y="-637" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="T8ZDAWZMFlxi3WID9TbE-141" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="T8ZDAWZMFlxi3WID9TbE-139" target="T8ZDAWZMFlxi3WID9TbE-120" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="321" y="-574" as="sourcePoint" />
             <mxPoint x="260" y="-634" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="250" y="-565" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="T8ZDAWZMFlxi3WID9TbE-142" value="DI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
@@ -3113,13 +3118,6 @@
         <mxCell id="zcZOAXH8oo8oysZtZAdS-3" value="11ms输入" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="30" y="-614" width="90" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="qhiuDlRWw4fsElY-LspI-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.368;entryY=1.018;entryDx=0;entryDy=0;exitX=0.484;exitY=-0.018;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="T8ZDAWZMFlxi3WID9TbE-121" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="359.0874999999999" y="-811.53" as="sourcePoint" />
-            <mxPoint x="358.40999999999985" y="-840.0000000000001" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="K0lb5qfRQG3t8Er4LQhP-1" value="GNSS1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="-380" y="-629" width="60" height="30" as="geometry" />
         </mxCell>
@@ -3153,12 +3151,14 @@
         <mxCell id="bX7gBk8Qtwz7xs0Yvh9m-4" value="10ms输出" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-140" y="-771.25" width="90" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="bX7gBk8Qtwz7xs0Yvh9m-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="T8ZDAWZMFlxi3WID9TbE-83" edge="1">
+        <mxCell id="bX7gBk8Qtwz7xs0Yvh9m-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.889;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="T8ZDAWZMFlxi3WID9TbE-133" edge="1" source="bX7gBk8Qtwz7xs0Yvh9m-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-80" y="-770" as="sourcePoint" />
+            <mxPoint x="-60" y="-780" as="sourcePoint" />
             <mxPoint x="-30" y="-820" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-80" y="-885" />
+              <mxPoint x="-60" y="-885" />
+              <mxPoint x="290" y="-885" />
+              <mxPoint x="290" y="-674" />
             </Array>
           </mxGeometry>
         </mxCell>
