@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T10:11:04.644Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Xc36NyhDcCMe89--bKnw" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T10:11:42.094Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Ep4QYOUZeZ6JZ2T7OjYc" version="24.4.13" type="github">
   <diagram name="Page-1" id="gXQe6kUvt1ci6GSDuus0">
-    <mxGraphModel dx="2421" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1784" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,7 +77,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jGMOLD6ypz5nmFyFvWFf-24" value="组合惯导Bynav：&lt;br&gt;IP：可调整（仅1个IP，可配置4个端口号）&lt;br&gt;192.168.0.xx?/10.0.3.xxx?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="jGMOLD6ypz5nmFyFvWFf-24" value="组合惯导Bynav：&lt;br&gt;IP：可调整（仅1个IP）&lt;br&gt;192.168.0.xx?/10.0.3.xxx?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="-145" y="1031.25" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jGMOLD6ypz5nmFyFvWFf-25" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;exitX=0.147;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jGMOLD6ypz5nmFyFvWFf-13">
@@ -100,7 +100,7 @@
         <mxCell id="jGMOLD6ypz5nmFyFvWFf-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="-71.25" y="1091.25" width="17.5" height="17.5" as="geometry" />
         </mxCell>
-        <mxCell id="jGMOLD6ypz5nmFyFvWFf-30" value="组合惯导CGI：&lt;br&gt;IP：可调整（仅1个IP，可配置4个端口号）&lt;br&gt;192.168.0.xx?/10.0.3.xxx?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="jGMOLD6ypz5nmFyFvWFf-30" value="组合惯导CGI：&lt;br&gt;IP：可调整（仅1个IP）&lt;br&gt;192.168.0.xx?/10.0.3.xxx?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="11.25" y="1031.25" width="158.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jGMOLD6ypz5nmFyFvWFf-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jGMOLD6ypz5nmFyFvWFf-32" target="jGMOLD6ypz5nmFyFvWFf-30">
