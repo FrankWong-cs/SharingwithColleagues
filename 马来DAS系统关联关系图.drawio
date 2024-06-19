@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T08:06:47.428Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2f5F2OGkrKSk5uWMhrCH" version="24.5.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-06-19T08:07:00.899Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="K17rn4UesK5sR7Qrz3Cn" version="24.5.5" type="github" pages="9">
   <diagram name="循迹系统全连接图-240415update" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="2421" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1663,7 +1663,7 @@
         <mxCell id="boizk3Cv1wrMdAZA4N6E-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="boizk3Cv1wrMdAZA4N6E-17" target="Nti6s0JKWWUjnWn7Pnm0-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="boizk3Cv1wrMdAZA4N6E-17" value="交换机&lt;br&gt;（信号 or 媒体网）&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="boizk3Cv1wrMdAZA4N6E-17" value="交换机&lt;br&gt;（信号）&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="653" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="boizk3Cv1wrMdAZA4N6E-19" target="boizk3Cv1wrMdAZA4N6E-17" edge="1">
