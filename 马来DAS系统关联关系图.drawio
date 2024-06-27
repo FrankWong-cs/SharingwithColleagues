@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T14:19:19.971Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="h4x31tyQp_qPzTd6KEcE" version="24.6.3" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2024-06-27T14:52:14.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="EumMab6KV1QcL2ijCzR-" version="24.6.2" type="github" pages="27">
   <diagram name="循迹系统全连接图-240415update" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="1861" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10575,12 +10575,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="输出" id="cbFoP7rC0cukSvPrMWUN">
-    <mxGraphModel dx="-1269" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1690" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-1" value="10ms输出信号处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2510" y="120" width="120" height="680" as="geometry" />
+          <mxGeometry x="2510" y="120" width="120" height="700" as="geometry" />
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-2" value="50ms输出信号处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3060" y="120" width="120" height="900" as="geometry" />
@@ -10611,12 +10611,12 @@
           <mxGeometry x="2850" y="130" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-30" value="iMX" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2850" y="330" width="160" height="130" as="geometry" />
+          <mxGeometry x="2850" y="260" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2631" y="420" as="sourcePoint" />
-            <mxPoint x="2852" y="420" as="targetPoint" />
+            <mxPoint x="2631" y="350" as="sourcePoint" />
+            <mxPoint x="2852" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-32" value="区间参考轨迹的请求代号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qtVy5bjcnpFVpySyI_Sy-31" vertex="1" connectable="0">
@@ -10626,8 +10626,8 @@
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2630" y="384" as="sourcePoint" />
-            <mxPoint x="2851" y="384" as="targetPoint" />
+            <mxPoint x="2630" y="314" as="sourcePoint" />
+            <mxPoint x="2851" y="314" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-34" value="区间关键坐标参考轨迹有效状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qtVy5bjcnpFVpySyI_Sy-33" vertex="1" connectable="0">
@@ -10637,8 +10637,8 @@
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2631" y="350" as="sourcePoint" />
-            <mxPoint x="2852" y="350" as="targetPoint" />
+            <mxPoint x="2631" y="280" as="sourcePoint" />
+            <mxPoint x="2852" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-36" value="区间参考轨迹请求状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qtVy5bjcnpFVpySyI_Sy-35" vertex="1" connectable="0">
@@ -10647,12 +10647,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-39" value="IEHS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2850" y="530" width="160" height="260" as="geometry" />
+          <mxGeometry x="2852" y="410" width="160" height="260" as="geometry" />
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2628" y="624.09" as="sourcePoint" />
-            <mxPoint x="2849" y="624.09" as="targetPoint" />
+            <mxPoint x="2630" y="504.09000000000003" as="sourcePoint" />
+            <mxPoint x="2851" y="504.09000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-41" value="期望方向盘转向角度指令状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qtVy5bjcnpFVpySyI_Sy-40" vertex="1" connectable="0">
@@ -10662,8 +10662,8 @@
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2629" y="599.09" as="sourcePoint" />
-            <mxPoint x="2850" y="599.09" as="targetPoint" />
+            <mxPoint x="2631" y="479.09000000000003" as="sourcePoint" />
+            <mxPoint x="2852" y="479.09000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-43" value="油泵状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qtVy5bjcnpFVpySyI_Sy-42" vertex="1" connectable="0">
@@ -10673,8 +10673,8 @@
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2628" y="573.09" as="sourcePoint" />
-            <mxPoint x="2849" y="573.09" as="targetPoint" />
+            <mxPoint x="2630" y="453.09000000000003" as="sourcePoint" />
+            <mxPoint x="2851" y="453.09000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-45" value="期望线控转向系统工作模式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qtVy5bjcnpFVpySyI_Sy-44" vertex="1" connectable="0">
@@ -10684,8 +10684,8 @@
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2629" y="543.09" as="sourcePoint" />
-            <mxPoint x="2850" y="543.09" as="targetPoint" />
+            <mxPoint x="2631" y="423.09000000000003" as="sourcePoint" />
+            <mxPoint x="2852" y="423.09000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-47" value="期望方向盘转向角度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qtVy5bjcnpFVpySyI_Sy-46" vertex="1" connectable="0">
@@ -10695,8 +10695,8 @@
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2629" y="652.09" as="sourcePoint" />
-            <mxPoint x="2850" y="652.09" as="targetPoint" />
+            <mxPoint x="2631" y="532.09" as="sourcePoint" />
+            <mxPoint x="2852" y="532.09" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-49" value="VCU状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qtVy5bjcnpFVpySyI_Sy-48" vertex="1" connectable="0">
@@ -10706,8 +10706,8 @@
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2628" y="678.09" as="sourcePoint" />
-            <mxPoint x="2849" y="678.09" as="targetPoint" />
+            <mxPoint x="2630" y="558.09" as="sourcePoint" />
+            <mxPoint x="2851" y="558.09" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-51" value="期望电机叠加扭矩" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qtVy5bjcnpFVpySyI_Sy-50" vertex="1" connectable="0">
@@ -10717,8 +10717,8 @@
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2629" y="761" as="sourcePoint" />
-            <mxPoint x="2850" y="761" as="targetPoint" />
+            <mxPoint x="2631" y="641" as="sourcePoint" />
+            <mxPoint x="2852" y="641" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-53" value="DAS系统生命信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qtVy5bjcnpFVpySyI_Sy-52" vertex="1" connectable="0">
@@ -10728,8 +10728,8 @@
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2628" y="733" as="sourcePoint" />
-            <mxPoint x="2849" y="733" as="targetPoint" />
+            <mxPoint x="2630" y="613" as="sourcePoint" />
+            <mxPoint x="2851" y="613" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-55" value="车速" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qtVy5bjcnpFVpySyI_Sy-54" vertex="1" connectable="0">
@@ -10739,8 +10739,8 @@
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2629" y="703" as="sourcePoint" />
-            <mxPoint x="2850" y="703" as="targetPoint" />
+            <mxPoint x="2631" y="583" as="sourcePoint" />
+            <mxPoint x="2852" y="583" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qtVy5bjcnpFVpySyI_Sy-57" value="期望方向盘角速度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qtVy5bjcnpFVpySyI_Sy-56" vertex="1" connectable="0">
@@ -11016,13 +11016,60 @@
             <mxPoint x="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LY0_swS26elLdoxQu4BS-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="LY0_swS26elLdoxQu4BS-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2629" y="179.5" as="sourcePoint" />
             <mxPoint x="2850" y="179.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LY0_swS26elLdoxQu4BS-4" value="IEHS故障状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LY0_swS26elLdoxQu4BS-3">
+        <mxCell id="LY0_swS26elLdoxQu4BS-4" value="IEHS故障状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LY0_swS26elLdoxQu4BS-3" vertex="1" connectable="0">
+          <mxGeometry x="-0.4378" y="1" relative="1" as="geometry">
+            <mxPoint x="38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-1" value="VGS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="690" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2629" y="710" as="sourcePoint" />
+            <mxPoint x="2850" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-3" value="目标转向角度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KsZf4Eza5O-gD4hCLUoY-2">
+          <mxGeometry x="-0.4378" y="1" relative="1" as="geometry">
+            <mxPoint x="38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2629" y="740" as="sourcePoint" />
+            <mxPoint x="2850" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-5" value="线控方向机-油泵关闭指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KsZf4Eza5O-gD4hCLUoY-4">
+          <mxGeometry x="-0.4378" y="1" relative="1" as="geometry">
+            <mxPoint x="38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2629" y="768.6700000000001" as="sourcePoint" />
+            <mxPoint x="2850" y="768.6700000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-7" value="DAS系统生命信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KsZf4Eza5O-gD4hCLUoY-6">
+          <mxGeometry x="-0.4378" y="1" relative="1" as="geometry">
+            <mxPoint x="38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2629" y="800" as="sourcePoint" />
+            <mxPoint x="2850" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-9" value="累加校验和" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KsZf4Eza5O-gD4hCLUoY-8">
           <mxGeometry x="-0.4378" y="1" relative="1" as="geometry">
             <mxPoint x="38" as="offset" />
           </mxGeometry>
