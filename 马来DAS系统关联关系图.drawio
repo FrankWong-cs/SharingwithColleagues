@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T13:51:46.816Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="NK5P8Eir3xnmgzN33ajv" version="24.6.3" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2024-06-27T14:19:19.971Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="h4x31tyQp_qPzTd6KEcE" version="24.6.3" type="github" pages="27">
   <diagram name="循迹系统全连接图-240415update" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="1861" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11598,7 +11598,7 @@
         <mxCell id="TrE2KCcPWUWx4t8CLCOU-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TrE2KCcPWUWx4t8CLCOU-1" target="TrE2KCcPWUWx4t8CLCOU-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TrE2KCcPWUWx4t8CLCOU-18" value="生命信号异常 or 看门狗触发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TrE2KCcPWUWx4t8CLCOU-15">
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-18" value="控制器异常 or 看门狗触发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TrE2KCcPWUWx4t8CLCOU-15">
           <mxGeometry x="-0.0574" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -11609,6 +11609,11 @@
         <mxCell id="TrE2KCcPWUWx4t8CLCOU-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TrE2KCcPWUWx4t8CLCOU-2" target="TrE2KCcPWUWx4t8CLCOU-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-20" value="任务初始化结束" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TrE2KCcPWUWx4t8CLCOU-6">
+          <mxGeometry x="-0.2022" y="8" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TrE2KCcPWUWx4t8CLCOU-2" value="初始化模式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -11627,6 +11632,11 @@
         </mxCell>
         <mxCell id="TrE2KCcPWUWx4t8CLCOU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TrE2KCcPWUWx4t8CLCOU-4" target="TrE2KCcPWUWx4t8CLCOU-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-21" value="上电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TrE2KCcPWUWx4t8CLCOU-5">
+          <mxGeometry x="-0.1793" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="TrE2KCcPWUWx4t8CLCOU-4" value="启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="150" width="80" height="50" as="geometry" />
