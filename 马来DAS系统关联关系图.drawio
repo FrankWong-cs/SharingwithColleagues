@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T14:52:14.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="EumMab6KV1QcL2ijCzR-" version="24.6.2" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2024-07-01T09:19:09.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="lpn19qRjjYvPhsBXhPk_" version="24.6.4" type="github" pages="27">
   <diagram name="循迹系统全连接图-240415update" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="1861" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10575,7 +10575,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="输出" id="cbFoP7rC0cukSvPrMWUN">
-    <mxGraphModel dx="-1690" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1004" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11011,7 +11011,7 @@
             <mxPoint x="2851" y="954.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qtVy5bjcnpFVpySyI_Sy-126" value="DO电平信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qtVy5bjcnpFVpySyI_Sy-125" vertex="1" connectable="0">
+        <mxCell id="qtVy5bjcnpFVpySyI_Sy-126" value="IDCP1失效应急制动信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qtVy5bjcnpFVpySyI_Sy-125" vertex="1" connectable="0">
           <mxGeometry x="-0.1543" y="-1" relative="1" as="geometry">
             <mxPoint x="6" as="offset" />
           </mxGeometry>
@@ -11027,49 +11027,49 @@
             <mxPoint x="38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KsZf4Eza5O-gD4hCLUoY-1" value="VGS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-1" value="VGS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2850" y="690" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="KsZf4Eza5O-gD4hCLUoY-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2629" y="710" as="sourcePoint" />
             <mxPoint x="2850" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KsZf4Eza5O-gD4hCLUoY-3" value="目标转向角度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KsZf4Eza5O-gD4hCLUoY-2">
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-3" value="目标转向角度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KsZf4Eza5O-gD4hCLUoY-2" vertex="1" connectable="0">
           <mxGeometry x="-0.4378" y="1" relative="1" as="geometry">
             <mxPoint x="38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KsZf4Eza5O-gD4hCLUoY-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2629" y="740" as="sourcePoint" />
             <mxPoint x="2850" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KsZf4Eza5O-gD4hCLUoY-5" value="线控方向机-油泵关闭指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KsZf4Eza5O-gD4hCLUoY-4">
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-5" value="线控方向机-油泵关闭指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KsZf4Eza5O-gD4hCLUoY-4" vertex="1" connectable="0">
           <mxGeometry x="-0.4378" y="1" relative="1" as="geometry">
             <mxPoint x="38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KsZf4Eza5O-gD4hCLUoY-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2629" y="768.6700000000001" as="sourcePoint" />
             <mxPoint x="2850" y="768.6700000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KsZf4Eza5O-gD4hCLUoY-7" value="DAS系统生命信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KsZf4Eza5O-gD4hCLUoY-6">
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-7" value="DAS系统生命信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KsZf4Eza5O-gD4hCLUoY-6" vertex="1" connectable="0">
           <mxGeometry x="-0.4378" y="1" relative="1" as="geometry">
             <mxPoint x="38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KsZf4Eza5O-gD4hCLUoY-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2629" y="800" as="sourcePoint" />
             <mxPoint x="2850" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KsZf4Eza5O-gD4hCLUoY-9" value="累加校验和" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KsZf4Eza5O-gD4hCLUoY-8">
+        <mxCell id="KsZf4Eza5O-gD4hCLUoY-9" value="累加校验和" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KsZf4Eza5O-gD4hCLUoY-8" vertex="1" connectable="0">
           <mxGeometry x="-0.4378" y="1" relative="1" as="geometry">
             <mxPoint x="38" as="offset" />
           </mxGeometry>
