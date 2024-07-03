@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T08:01:29.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="bi_W3SpheFSElflOho3a" version="24.6.4" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2024-07-03T09:55:09.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="gqYXeG5ZzCIa90T3-Edr" version="24.6.4" type="github" pages="29">
   <diagram name="循迹系统全连接图-240415update" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="1861" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11934,48 +11934,138 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k3tr9RbLQVodmkZu25k-" name="DAS系统软件架构命名层次梳理">
-    <mxGraphModel dx="1434" dy="517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="877" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-40" value="执行子功能" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="360" height="474" as="geometry" />
+        </mxCell>
         <mxCell id="PI8F8ZBcPL2MRMVV9RDQ-1" value="初始化模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-17" y="63" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PI8F8ZBcPL2MRMVV9RDQ-2" value="常规模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="213" y="63" width="120" height="60" as="geometry" />
+          <mxGeometry x="336" y="46" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PI8F8ZBcPL2MRMVV9RDQ-3" value="系统模式层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-182" y="78" width="60" height="30" as="geometry" />
+          <mxGeometry x="-230" y="76" width="103" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nr-tj4p7az3duuMXW6RZ-1" value="失效模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="423" y="63" width="120" height="60" as="geometry" />
+          <mxGeometry x="831.25" y="52" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-1" value="工作状态层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-182" y="195" width="60" height="30" as="geometry" />
+          <mxGeometry x="-228" y="196" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-3" value="初始化状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-17" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="-14" y="181" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-4" value="完成初始化状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-17" y="252" width="120" height="60" as="geometry" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-4" value="已完成初始化信号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-34" y="855" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BqSugzRSXPTkKfSI38Px-3" target="BqSugzRSXPTkKfSI38Px-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-6" value="横向控制-自动驾驶状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="191" y="394" width="165" height="60" as="geometry" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-6" value="横向控制-自动驾驶指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="910" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-7" value="横向控制-手动驾驶状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="464" width="165" height="60" as="geometry" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-7" value="横向控制-手动驾驶指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368.5" y="984" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-8" value="横向安全防护-自动防护状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="191.75" y="534" width="162.5" height="60" as="geometry" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-8" value="横向安全防护-自动防护指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540.5" y="910" width="162.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-10" value="横向安全防护-人工防护状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="191.75" y="604" width="162.5" height="60" as="geometry" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-10" value="横向安全防护-人工防护指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="543.5" y="987" width="162.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-11" value="失效状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="423" y="175" width="120" height="60" as="geometry" />
+          <mxGeometry x="831.25" y="164" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-12" value="软件功能层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-234" y="316" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-13" value="初始化功能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-17" y="293" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-14" value="信号层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-221" y="681" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-17" value="横向控制" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="293" width="162" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-18" value="偏离预警" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="518" y="296" width="162" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-19" value="失效安全保护功能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="839.25" y="283.5" width="126" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-20" value="IDCP1触发应急制动指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="821" y="382" width="162.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-21" value="DAS系统模式信号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-247" y="111" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-22" value="DAS系统工作状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-251" y="226" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BqSugzRSXPTkKfSI38Px-23" target="BqSugzRSXPTkKfSI38Px-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BqSugzRSXPTkKfSI38Px-23" target="BqSugzRSXPTkKfSI38Px-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-23" value="自检状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="166" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BqSugzRSXPTkKfSI38Px-27" target="BqSugzRSXPTkKfSI38Px-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-27" value="进路选择初始化" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="139" y="294" width="162" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-30" value="横向控制工作状态初始化" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="139" y="385" width="162" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-34" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=89;" vertex="1" parent="1">
+          <mxGeometry x="364.78" y="-23.16" width="50" height="320.43" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-37" value="横向控制故障判断" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="142" y="458" width="162" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-38" value="偏离预警故障判断" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="142" y="527" width="162" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-39" value="常规状态" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="463" y="166" width="138" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-47" value="输入处理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="139" y="599" width="162" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-48" value="输出处理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="670" width="162" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-49" value="进路选择" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="366" width="162" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-50" value="横向控制故障判断" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="440" width="162" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-51" value="偏离预警故障判断" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="522" y="583" width="162" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-52" value="输入处理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="514" width="162" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-53" value="输出处理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="528" y="661" width="162" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-54" value="转向执行器选择" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="659" width="162" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-58" value="进路选择判断" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="574" width="162" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-59" value="系统工作模式选择" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="496" width="162" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
