@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T09:56:21.427Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="p3Sntk1cZjfvN2HJtZ3m" version="24.6.4" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2024-07-03T10:38:56.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="q7RvbETlYTMMPPJPMbx-" version="24.6.4" type="github" pages="29">
   <diagram name="循迹系统全连接图-240415update" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="1861" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11869,66 +11869,80 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yf36viCdbtTqg-ct_MQ3" name="任务切换">
-    <mxGraphModel dx="1154" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TrE2KCcPWUWx4t8CLCOU-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TrE2KCcPWUWx4t8CLCOU-1" target="TrE2KCcPWUWx4t8CLCOU-9">
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TrE2KCcPWUWx4t8CLCOU-1" target="TrE2KCcPWUWx4t8CLCOU-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TrE2KCcPWUWx4t8CLCOU-17" value="断电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TrE2KCcPWUWx4t8CLCOU-14">
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-17" value="断电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TrE2KCcPWUWx4t8CLCOU-14" vertex="1" connectable="0">
           <mxGeometry x="0.1119" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrE2KCcPWUWx4t8CLCOU-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TrE2KCcPWUWx4t8CLCOU-1" target="TrE2KCcPWUWx4t8CLCOU-3">
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.002;exitY=0.595;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="TrE2KCcPWUWx4t8CLCOU-1" target="TrE2KCcPWUWx4t8CLCOU-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TrE2KCcPWUWx4t8CLCOU-18" value="控制器异常 or 看门狗触发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TrE2KCcPWUWx4t8CLCOU-15">
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-18" value="控制器异常 or 看门狗触发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TrE2KCcPWUWx4t8CLCOU-15" vertex="1" connectable="0">
           <mxGeometry x="-0.0574" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-41" y="45" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrE2KCcPWUWx4t8CLCOU-1" value="常规模式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="260" y="340" width="80" height="80" as="geometry" />
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-1" value="常规模式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="254" y="327.5" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="TrE2KCcPWUWx4t8CLCOU-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TrE2KCcPWUWx4t8CLCOU-2" target="TrE2KCcPWUWx4t8CLCOU-1">
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TrE2KCcPWUWx4t8CLCOU-2" target="LUkI2UFIFV84Tjurh7Xa-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrE2KCcPWUWx4t8CLCOU-20" value="任务初始化结束" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TrE2KCcPWUWx4t8CLCOU-6">
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-20" value="任务初始化结束" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TrE2KCcPWUWx4t8CLCOU-6" vertex="1" connectable="0">
           <mxGeometry x="-0.2022" y="8" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrE2KCcPWUWx4t8CLCOU-2" value="初始化模式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-2" value="初始化模式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="420" y="250" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TrE2KCcPWUWx4t8CLCOU-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="TrE2KCcPWUWx4t8CLCOU-3" target="TrE2KCcPWUWx4t8CLCOU-9">
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="TrE2KCcPWUWx4t8CLCOU-3" target="TrE2KCcPWUWx4t8CLCOU-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TrE2KCcPWUWx4t8CLCOU-19" value="断电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TrE2KCcPWUWx4t8CLCOU-16">
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-19" value="断电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TrE2KCcPWUWx4t8CLCOU-16" vertex="1" connectable="0">
           <mxGeometry x="0.0812" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrE2KCcPWUWx4t8CLCOU-3" value="失效模式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="420" y="440" width="80" height="80" as="geometry" />
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-3" value="失效模式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="550" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TrE2KCcPWUWx4t8CLCOU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TrE2KCcPWUWx4t8CLCOU-4" target="TrE2KCcPWUWx4t8CLCOU-2">
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TrE2KCcPWUWx4t8CLCOU-4" target="TrE2KCcPWUWx4t8CLCOU-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TrE2KCcPWUWx4t8CLCOU-21" value="上电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TrE2KCcPWUWx4t8CLCOU-5">
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-21" value="上电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TrE2KCcPWUWx4t8CLCOU-5" vertex="1" connectable="0">
           <mxGeometry x="-0.1793" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrE2KCcPWUWx4t8CLCOU-4" value="启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-4" value="启动" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="150" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TrE2KCcPWUWx4t8CLCOU-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="550" width="80" height="50" as="geometry" />
+        <mxCell id="TrE2KCcPWUWx4t8CLCOU-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="585" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUkI2UFIFV84Tjurh7Xa-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="LUkI2UFIFV84Tjurh7Xa-2" target="LUkI2UFIFV84Tjurh7Xa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUkI2UFIFV84Tjurh7Xa-5" value="自检完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="LUkI2UFIFV84Tjurh7Xa-4">
+          <mxGeometry x="-0.3556" relative="1" as="geometry">
+            <mxPoint x="4" y="33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUkI2UFIFV84Tjurh7Xa-2" value="自检状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="385" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LUkI2UFIFV84Tjurh7Xa-3" value="常规状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="385" width="60" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -11938,134 +11952,149 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BqSugzRSXPTkKfSI38Px-40" value="执行子功能" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="330" y="270" width="360" height="474" as="geometry" />
+        <mxCell id="F2peP0mB1TJ1Um_LoaBo-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-256" y="262" width="1114" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="F2peP0mB1TJ1Um_LoaBo-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-256" y="147" width="1114" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="F2peP0mB1TJ1Um_LoaBo-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-248" y="27" width="1104" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-84" value="执行功能-自检状态" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="172" y="266" width="208" height="597" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-40" value="执行功能-常规状态" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="446" y="270" width="201" height="460" as="geometry" />
         </mxCell>
         <mxCell id="PI8F8ZBcPL2MRMVV9RDQ-1" value="初始化模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-17" y="63" width="120" height="60" as="geometry" />
+          <mxGeometry x="-50" y="46" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PI8F8ZBcPL2MRMVV9RDQ-2" value="常规模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="336" y="46" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="46" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PI8F8ZBcPL2MRMVV9RDQ-3" value="系统模式层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="76" width="103" height="30" as="geometry" />
+        <mxCell id="PI8F8ZBcPL2MRMVV9RDQ-3" value="系统控制模式层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-236" y="55" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nr-tj4p7az3duuMXW6RZ-1" value="失效模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="831.25" y="52" width="120" height="60" as="geometry" />
+          <mxGeometry x="709.25" y="46" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-1" value="工作状态层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-228" y="196" width="95" height="30" as="geometry" />
+          <mxGeometry x="-233" y="170" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-3" value="初始化状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-14" y="181" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-4" value="已完成初始化信号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-34" y="855" width="120" height="60" as="geometry" />
+          <mxGeometry x="-50" y="167" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BqSugzRSXPTkKfSI38Px-3" target="BqSugzRSXPTkKfSI38Px-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-6" value="横向控制-自动驾驶指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="367" y="910" width="165" height="60" as="geometry" />
+          <mxGeometry x="380" y="949" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-7" value="横向控制-手动驾驶指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="368.5" y="984" width="165" height="60" as="geometry" />
+          <mxGeometry x="381.5" y="1023" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-8" value="横向安全防护-自动防护指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540.5" y="910" width="162.5" height="60" as="geometry" />
+          <mxGeometry x="553.5" y="949" width="162.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-10" value="横向安全防护-人工防护指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="543.5" y="987" width="162.5" height="60" as="geometry" />
+          <mxGeometry x="556.5" y="1026" width="162.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-11" value="失效状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="831.25" y="164" width="120" height="60" as="geometry" />
+          <mxGeometry x="709.25" y="167" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-12" value="软件功能层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-234" y="316" width="101" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-13" value="初始化功能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-17" y="293" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-14" value="信号层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-221" y="681" width="117" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-17" value="横向控制" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="336" y="293" width="162" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-18" value="偏离预警" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="518" y="296" width="162" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-19" value="失效安全保护功能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="839.25" y="283.5" width="126" height="77" as="geometry" />
+          <mxGeometry x="-236" y="301" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-20" value="IDCP1触发应急制动指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="821" y="382" width="162.5" height="60" as="geometry" />
+          <mxGeometry x="841" y="901" width="162.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-21" value="DAS系统模式信号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-247" y="111" width="145" height="30" as="geometry" />
+          <mxGeometry x="-248" y="87" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-22" value="DAS系统工作状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-251" y="226" width="145" height="30" as="geometry" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-22" value="DAS系统工作状态信号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-248" y="203" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BqSugzRSXPTkKfSI38Px-23" target="BqSugzRSXPTkKfSI38Px-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BqSugzRSXPTkKfSI38Px-23" target="BqSugzRSXPTkKfSI38Px-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-23" value="自检状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="166" width="120" height="60" as="geometry" />
+          <mxGeometry x="221" y="166" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BqSugzRSXPTkKfSI38Px-27" target="BqSugzRSXPTkKfSI38Px-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-27" value="进路选择初始化" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="139" y="294" width="162" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-30" value="横向控制工作状态初始化" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="139" y="385" width="162" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-34" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=89;" vertex="1" parent="1">
-          <mxGeometry x="364.78" y="-23.16" width="50" height="320.43" as="geometry" />
-        </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-37" value="横向控制故障判断" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="142" y="458" width="162" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-38" value="偏离预警故障判断" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="142" y="527" width="162" height="52" as="geometry" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-34" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="385.61" y="-2.37" width="51.78" height="276.97" as="geometry" />
         </mxCell>
         <mxCell id="BqSugzRSXPTkKfSI38Px-39" value="常规状态" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="463" y="166" width="138" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-47" value="输入处理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="139" y="599" width="162" height="52" as="geometry" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-60" value="横向控制与偏离预警" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="599" width="148.75" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-48" value="输出处理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="670" width="162" height="52" as="geometry" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-61" value="进路选择" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="471" y="301" width="146" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-49" value="进路选择" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="366" width="162" height="52" as="geometry" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-62" value="功能状态管理模式" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="470" y="341" width="148" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-50" value="横向控制故障判断" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="440" width="162" height="52" as="geometry" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-65" value="横向控制与偏离预警" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="191.5" y="417" width="172" height="158" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-51" value="偏离预警故障判断" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="522" y="583" width="162" height="52" as="geometry" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-66" value="横向控制故障判断" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="457" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-52" value="输入处理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="514" width="162" height="52" as="geometry" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-38" value="偏离预警故障判断" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="512" width="130" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-53" value="输出处理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="528" y="661" width="162" height="52" as="geometry" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-67" value="横向控制工作指令初始化" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="191" y="361" width="172" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-54" value="转向执行器选择" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="341" y="659" width="162" height="52" as="geometry" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-68" value="进路选择自检" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="190.5" y="305" width="172" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-58" value="进路选择判断" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="338" y="574" width="162" height="52" as="geometry" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-69" value="初始化功能" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-76" y="301" width="172" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="BqSugzRSXPTkKfSI38Px-59" value="系统工作模式选择" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="338" y="496" width="162" height="52" as="geometry" />
+        <mxCell id="BqSugzRSXPTkKfSI38Px-72" value="49ms输入信号处理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="190" y="589" width="172" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-74" value="9ms输入信号处理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="191.5" y="646" width="172" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-75" value="100ms输入信号处理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="190" y="698" width="172" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-76" value="10ms输出信号处理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="192" y="750" width="172" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-77" value="50ms输出信号处理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="190" y="802" width="172" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-78" value="49ms输入信号处理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="470" y="516" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-79" value="9ms输入信号处理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="471" y="557" width="147.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-80" value="100ms输入信号处理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="470" y="473" width="148.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-81" value="10ms输出信号处理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="470.5" y="381" width="148" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-82" value="50ms输出信号处理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="469.5" y="425" width="149" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-86" value="失效安全保护功能" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="470" y="642" width="148.75" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-87" value="IDCP2生命信号检测" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="668" width="114.5" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-88" value="失效安全保护功能" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="688.75" y="294.5" width="161" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="BqSugzRSXPTkKfSI38Px-89" value="失效安全保护处理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="712.75" y="316.5" width="114.5" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
