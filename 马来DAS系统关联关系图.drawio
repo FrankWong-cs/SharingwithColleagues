@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T03:54:31.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="_0T6opfHYA_uY71Vu4zD" version="24.6.4" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2024-07-03T03:54:45.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="uXgNqkDJAa2ki-Zu8DCX" version="24.6.4" type="github" pages="28">
   <diagram name="循迹系统全连接图-240415update" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="1861" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10006,7 +10006,7 @@
         <mxCell id="sWOav5laWIsFbgc-sdVV-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.968;exitY=0.349;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;exitPerimeter=0;" edge="1" parent="q6R70Qy3D0Tjzo_0ivh7-1" source="BxbDuxfe1aL3QngWvX5Q-0" target="q6R70Qy3D0Tjzo_0ivh7-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BxbDuxfe1aL3QngWvX5Q-0" value="DAS软件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="q6R70Qy3D0Tjzo_0ivh7-1">
+        <mxCell id="BxbDuxfe1aL3QngWvX5Q-0" value="DAS软件" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="q6R70Qy3D0Tjzo_0ivh7-1">
           <mxGeometry x="220" y="746" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
