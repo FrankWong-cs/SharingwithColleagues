@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T02:06:07.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="9UCNlsd1WPXdr0R5biAQ" version="24.6.4" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2024-07-03T02:06:36.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="7w18wcyH_trgnzML-w_j" version="24.6.4" type="github" pages="28">
   <diagram name="循迹系统全连接图-240415update" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="1861" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9759,7 +9759,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="关联关系图 的副本" id="UdQwhe0d_aE-vYUjWtdr">
+  <diagram name="关联关系图（完善应用核-安全核）" id="UdQwhe0d_aE-vYUjWtdr">
     <mxGraphModel dx="2043" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="q6R70Qy3D0Tjzo_0ivh7-0" />
