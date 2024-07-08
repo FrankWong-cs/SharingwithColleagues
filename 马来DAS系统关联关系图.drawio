@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T10:11:58.192Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="XxpLbpGaQ_UcMojkgiQ4" version="24.6.4" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2024-07-08T10:15:26.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="4THC6LTXoQccb3uSQcRu" version="24.6.4" type="github" pages="29">
   <diagram name="循迹系统全连接图-240415update" id="CBUP-HR3QqebyW29lq4L">
     <mxGraphModel dx="1861" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9993,7 +9993,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="输入" id="OHG-cM7LpTcy_Vb7GCpE">
-    <mxGraphModel dx="2693" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10134,7 +10134,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdIrFUVi69_Go0rzDBUq-24" value="执行器当前工作模式" style="endArrow=classic;html=1;rounded=0;exitX=0.991;exitY=0.06;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="wdIrFUVi69_Go0rzDBUq-24" value="IEHS当前工作模式" style="endArrow=classic;html=1;rounded=0;exitX=0.991;exitY=0.06;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-0.095" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="1404.41" as="sourcePoint" />
             <mxPoint x="441" y="1404.41" as="targetPoint" />
@@ -10750,47 +10750,47 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uE9xZ4bydHouzsjw6R3r-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="uE9xZ4bydHouzsjw6R3r-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="219" y="860" as="sourcePoint" />
             <mxPoint x="440" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uE9xZ4bydHouzsjw6R3r-6" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;font-family: MonospacedNumber, LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;横向偏差超阈值故障状态&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uE9xZ4bydHouzsjw6R3r-5">
+        <mxCell id="uE9xZ4bydHouzsjw6R3r-6" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;font-family: MonospacedNumber, LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;横向偏差超阈值故障状态&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uE9xZ4bydHouzsjw6R3r-5" vertex="1" connectable="0">
           <mxGeometry x="-0.0329" y="3" relative="1" as="geometry">
             <mxPoint x="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SUN4IC0ucNuTMS9b3YkT-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="SUN4IC0ucNuTMS9b3YkT-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="890" as="sourcePoint" />
             <mxPoint x="951" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SUN4IC0ucNuTMS9b3YkT-2" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;font-family: MonospacedNumber, LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;性能模式横向偏差超阈值故障状态&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SUN4IC0ucNuTMS9b3YkT-1">
+        <mxCell id="SUN4IC0ucNuTMS9b3YkT-2" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;font-family: MonospacedNumber, LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;性能模式横向偏差超阈值故障状态&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SUN4IC0ucNuTMS9b3YkT-1" vertex="1" connectable="0">
           <mxGeometry x="-0.0329" y="3" relative="1" as="geometry">
             <mxPoint x="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SUN4IC0ucNuTMS9b3YkT-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.886;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.007;entryY=0.965;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="SUN4IC0ucNuTMS9b3YkT-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.886;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.007;entryY=0.965;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="733.03" y="1720" as="sourcePoint" />
             <mxPoint x="950.9999999999998" y="1720.31" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SUN4IC0ucNuTMS9b3YkT-4" value="IDCP2生命信号不变故障状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SUN4IC0ucNuTMS9b3YkT-3">
+        <mxCell id="SUN4IC0ucNuTMS9b3YkT-4" value="IDCP2生命信号不变故障状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SUN4IC0ucNuTMS9b3YkT-3" vertex="1" connectable="0">
           <mxGeometry x="-0.4378" y="1" relative="1" as="geometry">
             <mxPoint x="38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SUN4IC0ucNuTMS9b3YkT-5" value="VGS累加和校验故障状态" style="endArrow=classic;html=1;rounded=0;exitX=0.991;exitY=0.06;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="SUN4IC0ucNuTMS9b3YkT-5" value="VGS累加和校验故障状态" style="endArrow=classic;html=1;rounded=0;exitX=0.991;exitY=0.06;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-0.095" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="1600" as="sourcePoint" />
             <mxPoint x="951" y="1600" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SUN4IC0ucNuTMS9b3YkT-6" value="&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;当前时刻列车在东北天坐标系下y坐标&lt;/span&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.367;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.009;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="SUN4IC0ucNuTMS9b3YkT-6" value="&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;当前时刻列车在东北天坐标系下y坐标&lt;/span&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.367;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.009;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-0.0993" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1308.75" y="949.25" as="sourcePoint" />
             <mxPoint x="1090.0010000000002" y="949.19" as="targetPoint" />
@@ -10800,7 +10800,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SUN4IC0ucNuTMS9b3YkT-7" value="MDM区段有效路点数" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="SUN4IC0ucNuTMS9b3YkT-7" value="MDM区段有效路点数" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-0.0909" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1310" y="700" as="sourcePoint" />
             <mxPoint x="1090" y="700.4000000000001" as="targetPoint" />
@@ -11869,7 +11869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yf36viCdbtTqg-ct_MQ3" name="任务切换">
-    <mxGraphModel dx="1482" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
