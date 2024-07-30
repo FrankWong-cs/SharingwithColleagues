@@ -130,6 +130,9 @@
         <mxCell id="CoM8JorLLQIsGvK0qaQk-1" value="Radar" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="2020" y="515" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lf1xvUUSgoj7wbdwF6IN-1" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
