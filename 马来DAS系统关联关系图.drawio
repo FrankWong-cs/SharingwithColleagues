@@ -1546,7 +1546,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="横向控制安全部分与外部系统关联关系图" id="nJfg0wYnjAu63u8moZO3">
-    <mxGraphModel dx="1509" dy="3139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="585" dy="2649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1741,7 +1741,7 @@
         <mxCell id="boizk3Cv1wrMdAZA4N6E-7" value="地面信号系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="472" y="-850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="boizk3Cv1wrMdAZA4N6E-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;dashed=1;" parent="1" edge="1">
+        <mxCell id="boizk3Cv1wrMdAZA4N6E-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;dashed=1;strokeWidth=2;strokeColor=#97D077;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="644.0000000000002" y="-820.37" as="sourcePoint" />
             <mxPoint x="592" y="-820.37" as="targetPoint" />
@@ -1749,7 +1749,7 @@
         </mxCell>
         <mxCell id="fl2iqkxzRc0coLTXQVmc-28" value="ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="boizk3Cv1wrMdAZA4N6E-30">
           <mxGeometry x="0.1425" y="-3" relative="1" as="geometry">
-            <mxPoint y="-7" as="offset" />
+            <mxPoint x="6" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-8" value="车载信号&lt;br&gt;VATC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
