@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8" pages="16">
   <diagram name="循迹系统全连接图-240415update" id="V7MKL7Eya_-RF_ps-Bo7">
     <mxGraphModel dx="2812" dy="2422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1546,7 +1546,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="横向控制安全部分与外部系统关联关系图" id="nJfg0wYnjAu63u8moZO3">
-    <mxGraphModel dx="1674" dy="3099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="2972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1604,18 +1604,38 @@
         <mxCell id="boizk3Cv1wrMdAZA4N6E-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="boizk3Cv1wrMdAZA4N6E-1" target="Nti6s0JKWWUjnWn7Pnm0-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fl2iqkxzRc0coLTXQVmc-1" value="ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="boizk3Cv1wrMdAZA4N6E-14">
+          <mxGeometry x="-0.0371" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="boizk3Cv1wrMdAZA4N6E-1" target="boizk3Cv1wrMdAZA4N6E-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fl2iqkxzRc0coLTXQVmc-2" value="ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="boizk3Cv1wrMdAZA4N6E-15">
+          <mxGeometry x="0.0748" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="boizk3Cv1wrMdAZA4N6E-1" target="boizk3Cv1wrMdAZA4N6E-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fl2iqkxzRc0coLTXQVmc-3" value="ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="boizk3Cv1wrMdAZA4N6E-16">
+          <mxGeometry x="-0.2627" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="boizk3Cv1wrMdAZA4N6E-1" target="boizk3Cv1wrMdAZA4N6E-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="845" y="-540" />
-              <mxPoint x="1340" y="-540" />
+              <mxPoint x="1367" y="-540" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fl2iqkxzRc0coLTXQVmc-4" value="ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="boizk3Cv1wrMdAZA4N6E-32">
+          <mxGeometry x="-0.202" y="-1" relative="1" as="geometry">
+            <mxPoint x="127" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-1" value="整车网络&lt;br&gt;控制环网" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=1;" parent="1" vertex="1">
@@ -1626,41 +1646,41 @@
             <mxPoint x="760" y="-584" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="boizk3Cv1wrMdAZA4N6E-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="boizk3Cv1wrMdAZA4N6E-2" target="boizk3Cv1wrMdAZA4N6E-3" edge="1">
+        <mxCell id="boizk3Cv1wrMdAZA4N6E-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;" parent="1" source="boizk3Cv1wrMdAZA4N6E-2" target="boizk3Cv1wrMdAZA4N6E-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-2" value="整车网络&lt;br&gt;控制系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="653" y="-1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="644" y="-1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-3" value="HMI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="502" y="-1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="472" y="-1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="boizk3Cv1wrMdAZA4N6E-4" target="Nti6s0JKWWUjnWn7Pnm0-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-4" value="应急制动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="-910" width="120" height="60" as="geometry" />
+          <mxGeometry x="1307" y="-910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="boizk3Cv1wrMdAZA4N6E-5" target="Nti6s0JKWWUjnWn7Pnm0-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-5" value="&lt;span&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;智能电液转向系统&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1280" y="-810" width="120" height="60" as="geometry" />
+          <mxGeometry x="1307" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="boizk3Cv1wrMdAZA4N6E-6" target="Nti6s0JKWWUjnWn7Pnm0-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-6" value="无轨导向&lt;br&gt;头轴转向控制器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="-710" width="120" height="60" as="geometry" />
+          <mxGeometry x="1307" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-7" value="地面信号系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="502" y="-850" width="120" height="60" as="geometry" />
+          <mxGeometry x="472" y="-850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="boizk3Cv1wrMdAZA4N6E-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="boizk3Cv1wrMdAZA4N6E-8" target="boizk3Cv1wrMdAZA4N6E-7" edge="1">
+        <mxCell id="boizk3Cv1wrMdAZA4N6E-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;dashed=1;" parent="1" source="boizk3Cv1wrMdAZA4N6E-8" target="boizk3Cv1wrMdAZA4N6E-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-8" value="车载信号&lt;br&gt;VATC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="653" y="-850" width="120" height="60" as="geometry" />
+          <mxGeometry x="644" y="-850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-9" value="循迹&lt;br&gt;按钮" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1290" y="-1040" width="80" height="80" as="geometry" />
@@ -1672,22 +1692,54 @@
           <mxGeometry x="1490" y="-1040" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-12" value="安全制动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="502" y="-620" width="120" height="60" as="geometry" />
+          <mxGeometry x="472" y="-620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="boizk3Cv1wrMdAZA4N6E-17" target="Nti6s0JKWWUjnWn7Pnm0-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-17" value="交换机&lt;br&gt;（信号）&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="653" y="-710" width="120" height="60" as="geometry" />
+          <mxGeometry x="644" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="boizk3Cv1wrMdAZA4N6E-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="boizk3Cv1wrMdAZA4N6E-19" target="boizk3Cv1wrMdAZA4N6E-17" edge="1">
+        <mxCell id="boizk3Cv1wrMdAZA4N6E-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="boizk3Cv1wrMdAZA4N6E-19" target="boizk3Cv1wrMdAZA4N6E-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fl2iqkxzRc0coLTXQVmc-5" value="ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="boizk3Cv1wrMdAZA4N6E-31">
+          <mxGeometry x="-0.0385" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-19" value="差分服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="502" y="-710" width="120" height="60" as="geometry" />
+          <mxGeometry x="472" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fI0Vj5BSCrW7VSIR1old-1" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;偏离预警&lt;/span&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;灯显&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;DWS&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1590" y="-1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fl2iqkxzRc0coLTXQVmc-9" value="无线通信" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="-629" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fl2iqkxzRc0coLTXQVmc-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520" y="-614.42" as="sourcePoint" />
+            <mxPoint x="1590" y="-614.42" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fl2iqkxzRc0coLTXQVmc-12" value="非安全通信" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="-599" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fl2iqkxzRc0coLTXQVmc-13" value="安全通信" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="-569" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fl2iqkxzRc0coLTXQVmc-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520" y="-584.42" as="sourcePoint" />
+            <mxPoint x="1590" y="-584.42" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fl2iqkxzRc0coLTXQVmc-16" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#97D077;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520" y="-554.42" as="sourcePoint" />
+            <mxPoint x="1590" y="-554.42" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
