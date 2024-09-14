@@ -1649,12 +1649,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="boizk3Cv1wrMdAZA4N6E-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="boizk3Cv1wrMdAZA4N6E-1" target="boizk3Cv1wrMdAZA4N6E-2" edge="1">
+        <mxCell id="boizk3Cv1wrMdAZA4N6E-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#97D077;" parent="1" source="boizk3Cv1wrMdAZA4N6E-1" target="boizk3Cv1wrMdAZA4N6E-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fl2iqkxzRc0coLTXQVmc-2" value="ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="boizk3Cv1wrMdAZA4N6E-15">
           <mxGeometry x="0.0748" y="-1" relative="1" as="geometry">
-            <mxPoint x="6" y="1" as="offset" />
+            <mxPoint x="2" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#97D077;strokeWidth=2;" parent="1" source="boizk3Cv1wrMdAZA4N6E-1" target="boizk3Cv1wrMdAZA4N6E-8" edge="1">
@@ -1662,7 +1662,7 @@
         </mxCell>
         <mxCell id="fl2iqkxzRc0coLTXQVmc-3" value="ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="boizk3Cv1wrMdAZA4N6E-16">
           <mxGeometry x="-0.2627" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="boizk3Cv1wrMdAZA4N6E-1" target="boizk3Cv1wrMdAZA4N6E-6" edge="1">
