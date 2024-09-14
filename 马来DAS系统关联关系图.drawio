@@ -1546,7 +1546,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="横向控制安全部分与外部系统关联关系图" id="nJfg0wYnjAu63u8moZO3">
-    <mxGraphModel dx="1593" dy="3184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="3139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1767,7 +1767,7 @@
         <mxCell id="boizk3Cv1wrMdAZA4N6E-12" value="安全制动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="472" y="-620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="boizk3Cv1wrMdAZA4N6E-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="boizk3Cv1wrMdAZA4N6E-17" target="Nti6s0JKWWUjnWn7Pnm0-48" edge="1">
+        <mxCell id="boizk3Cv1wrMdAZA4N6E-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#97D077;" parent="1" source="boizk3Cv1wrMdAZA4N6E-17" target="Nti6s0JKWWUjnWn7Pnm0-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fl2iqkxzRc0coLTXQVmc-26" value="ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="boizk3Cv1wrMdAZA4N6E-18">
@@ -1778,7 +1778,7 @@
         <mxCell id="boizk3Cv1wrMdAZA4N6E-17" value="交换机&lt;br&gt;（信号）&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="644" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="boizk3Cv1wrMdAZA4N6E-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="boizk3Cv1wrMdAZA4N6E-19" target="boizk3Cv1wrMdAZA4N6E-17" edge="1">
+        <mxCell id="boizk3Cv1wrMdAZA4N6E-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeWidth=2;strokeColor=#97D077;" parent="1" source="boizk3Cv1wrMdAZA4N6E-19" target="boizk3Cv1wrMdAZA4N6E-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fl2iqkxzRc0coLTXQVmc-5" value="ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="boizk3Cv1wrMdAZA4N6E-31">
