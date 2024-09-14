@@ -1606,10 +1606,10 @@
         <mxCell id="Nti6s0JKWWUjnWn7Pnm0-48" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;GPKydue6zoJXwUx4ma1c4SqAniA&quot;&gt;&lt;div class=&quot;old-record-id-GPKydue6zoJXwUx4ma1c4SqAniA&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;横向控制-功能安全&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;verticalAlign=top;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="940" y="-980" width="290" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="Nti6s0JKWWUjnWn7Pnm0-49" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;white-space: pre;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;&quot;&gt;智能驾驶计算平台&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=3;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="Nti6s0JKWWUjnWn7Pnm0-49" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;white-space: pre;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;智能驾驶计算平台&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=3;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="1000" y="-794" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nti6s0JKWWUjnWn7Pnm0-50" value="以太网交换机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="Nti6s0JKWWUjnWn7Pnm0-50" value="以太网交换机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="998.75" y="-910" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nti6s0JKWWUjnWn7Pnm0-52" value="DAS横向控制系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
