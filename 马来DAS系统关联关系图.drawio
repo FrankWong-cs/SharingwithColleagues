@@ -1546,7 +1546,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="横向控制安全部分与外部系统关联关系图" id="nJfg0wYnjAu63u8moZO3">
-    <mxGraphModel dx="1195" dy="2972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="2902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1554,19 +1554,54 @@
           <mxGeometry x="1280" y="-1050" width="410" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Nti6s0JKWWUjnWn7Pnm0-51" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=13;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="920" y="-1330" width="330" height="760" as="geometry" />
+          <mxGeometry x="920" y="-1350" width="330" height="780" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="Nti6s0JKWWUjnWn7Pnm0-48" target="boizk3Cv1wrMdAZA4N6E-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fl2iqkxzRc0coLTXQVmc-17" value="DI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="boizk3Cv1wrMdAZA4N6E-25">
+          <mxGeometry x="0.1724" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Nti6s0JKWWUjnWn7Pnm0-48" target="boizk3Cv1wrMdAZA4N6E-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1157" y="-1080" />
+              <mxPoint x="1430" y="-1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fl2iqkxzRc0coLTXQVmc-18" value="DO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="boizk3Cv1wrMdAZA4N6E-26">
+          <mxGeometry x="0.879" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Nti6s0JKWWUjnWn7Pnm0-48" target="boizk3Cv1wrMdAZA4N6E-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1157" y="-1080" />
+              <mxPoint x="1530" y="-1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fl2iqkxzRc0coLTXQVmc-19" value="DO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="boizk3Cv1wrMdAZA4N6E-27">
+          <mxGeometry x="0.8881" y="-1" relative="1" as="geometry">
+            <mxPoint y="4" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fI0Vj5BSCrW7VSIR1old-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classicThin;startFill=1;" parent="1" source="Nti6s0JKWWUjnWn7Pnm0-48" target="fI0Vj5BSCrW7VSIR1old-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1157" y="-1080" />
+              <mxPoint x="1630" y="-1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fl2iqkxzRc0coLTXQVmc-20" value="DO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fI0Vj5BSCrW7VSIR1old-2">
+          <mxGeometry x="0.9112" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="3" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Nti6s0JKWWUjnWn7Pnm0-48" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;GPKydue6zoJXwUx4ma1c4SqAniA&quot;&gt;&lt;div class=&quot;old-record-id-GPKydue6zoJXwUx4ma1c4SqAniA&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;横向控制-功能安全&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;verticalAlign=top;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="940" y="-980" width="290" height="400" as="geometry" />
@@ -1578,19 +1613,19 @@
           <mxGeometry x="998.75" y="-910" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nti6s0JKWWUjnWn7Pnm0-52" value="DAS横向控制系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="930" y="-1363" width="310" height="30" as="geometry" />
+          <mxGeometry x="930" y="-1388" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeWidth=3;" parent="1" source="Nti6s0JKWWUjnWn7Pnm0-53" target="Nti6s0JKWWUjnWn7Pnm0-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nti6s0JKWWUjnWn7Pnm0-53" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;横向控制-性能&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="950" y="-1310" width="270" height="240" as="geometry" />
+          <mxGeometry x="950" y="-1333" width="270" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Nti6s0JKWWUjnWn7Pnm0-54" value="&lt;div style=&quot;white-space: pre;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;div&gt;&lt;div data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;font-family: LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;数据处理单元&lt;/span&gt;&lt;/div&gt;&lt;div data-line=&quot;true&quot; data-line-index=&quot;1&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;font-family: LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Tahoma, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;域控制器&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="978.75" y="-1170" width="211.25" height="60" as="geometry" />
+          <mxGeometry x="978.75" y="-1193" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F5DVu0b59GcAUjAUMA_I-1" value="摄像头模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="978.75" y="-1240" width="100" height="60" as="geometry" />
+          <mxGeometry x="978.75" y="-1263" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F5DVu0b59GcAUjAUMA_I-2" value="GNSS&lt;br&gt;-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1000" y="-680" width="60" height="60" as="geometry" />
@@ -1599,7 +1634,7 @@
           <mxGeometry x="1110" y="-680" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F5DVu0b59GcAUjAUMA_I-4" value="激光雷达" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1088.75" y="-1240" width="100" height="60" as="geometry" />
+          <mxGeometry x="1088.75" y="-1263" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="boizk3Cv1wrMdAZA4N6E-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="boizk3Cv1wrMdAZA4N6E-1" target="Nti6s0JKWWUjnWn7Pnm0-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1735,7 +1770,7 @@
             <mxPoint x="1590" y="-584.42" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fl2iqkxzRc0coLTXQVmc-16" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#97D077;" edge="1" parent="1">
+        <mxCell id="fl2iqkxzRc0coLTXQVmc-16" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#97D077;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1520" y="-554.42" as="sourcePoint" />
             <mxPoint x="1590" y="-554.42" as="targetPoint" />
