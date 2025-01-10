@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.3" pages="16">
   <diagram name="循迹系统全连接图-240415update" id="V7MKL7Eya_-RF_ps-Bo7">
-    <mxGraphModel dx="3217" dy="2477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3434" dy="2596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -426,7 +426,7 @@
         </mxCell>
         <mxCell id="I4-SVsashgH5cRFDeAsI-10" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251); text-decoration-line: underline;&quot;&gt;定位信号&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I4-SVsashgH5cRFDeAsI-2">
           <mxGeometry x="0.4814" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-63" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I4-SVsashgH5cRFDeAsI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I4-SVsashgH5cRFDeAsI-1" target="kV2-ElPKzwBOEJ-UU_A2-15">
@@ -436,11 +436,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4-SVsashgH5cRFDeAsI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I4-SVsashgH5cRFDeAsI-1" target="I4-SVsashgH5cRFDeAsI-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-750" y="-62" />
-            </Array>
+        <mxCell id="I4-SVsashgH5cRFDeAsI-13" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251); text-decoration-line: underline;&quot;&gt;定位信号&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I4-SVsashgH5cRFDeAsI-3">
+          <mxGeometry x="0.3138" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I4-SVsashgH5cRFDeAsI-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://marketplace.canva.cn/5frmA/MACNSW5frmA/2/tl/canva-MACNSW5frmA.png;rotation=-15;" vertex="1" parent="1">
